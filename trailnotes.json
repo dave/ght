@@ -1149,7 +1149,7 @@
       "Bottom": 1195,
       "Route": 4,
       "Trail": 3,
-      "Lodge": "G",
+      "Lodge": "H",
       "Quality": 1,
       "Notes": "Heavy rain in the afternoon meant we split this leg over two days and stayed overnight at Borang. The trail was relatively well maintained and easy to follow. Jeff (2025) found a better route for the next leg, so I've updated the last part of this leg to follow his track to Khading."
     },
@@ -1164,11 +1164,11 @@
       "End": 1908.690111,
       "Top": 3019.487606,
       "Bottom": 1623.984341,
-      "Route": 1,
-      "Trail": 2,
+      "Route": 4,
+      "Trail": 4,
       "Lodge": "G",
       "Quality": 1,
-      "Notes": "We took a different route via Dharot, but this is not recommended. Jeff (2025) found a better route so I've updated this leg to follow his track."
+      "Notes": "We took a different route via Dharot, but this is not recommended. Jeff (2025) found a better route so I've updated this leg to follow his track. Jeff: \"The first part of the climb is on a nice new trail, then it turns to an older shepherd's Trail before hitting the pass. From the pass the nice new trail continues north and connects to Khorlabeshi. I'd recommend people take this path as it looks nicer. Probably no water until the bottom though. My track continues down the pass off trail for a few hundred meters (waypoint \"L069 Jeff\") until it connects with a new road down to the hydro works. From there you can follow it to Kashigaun.\""
     },
     {
       "Leg": 70,
@@ -2630,13 +2630,19 @@
       "Leg": 68,
       "Name": "Khading",
       "Elevation": 2050,
-      "Notes": "Jeff's updated route (2025) stops here. He stayed at XXX"
+      "Notes": "Jeff (2025) stayed at a basic homestay in Khading."
     },
     {
       "Leg": 69,
       "Name": "Kashigaun",
       "Elevation": 1908,
       "Notes": "We stayed overnight in a basic guesthouse in Kashigaun."
+    },
+    {
+      "Leg": 69,
+      "Name": "Jeff",
+      "Elevation": 2953,
+      "Notes": "Jeff's track (2025) continues down the pass off trail for a few hundred meters here, but he recommends heading north instead."
     },
     {
       "Leg": 70,

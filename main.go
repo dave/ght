@@ -21,7 +21,7 @@ func main() {
 	//}
 
 	// Process final routes and output new file (remember to increment version)
-	const VERSION = 9
+	const VERSION = 10
 	if err := ProcessFinalRoutesAll(VERSION); err != nil {
 		panic(err)
 	}
@@ -31,14 +31,14 @@ func main() {
 	}
 
 	// Create map images for trail notes
-	//if err := DrawMaps(68, 69, 70); err != nil {
-	//	panic(err)
-	//}
+	if err := DrawMaps(68, 69, 70); err != nil {
+		panic(err)
+	}
 
 	// Create map elevation graphs for trail notes
-	//if err := DrawElevations(68, 69, 70); err != nil {
-	//	panic(err)
-	//}
+	if err := DrawElevations(68, 69, 70); err != nil {
+		panic(err)
+	}
 }
 
 func ProcessFinalRoutesAll(version int) error {
