@@ -53,7 +53,7 @@ func ProcessFinalRoutesAll(version int) error {
 
 func ProcessFinalRoutes(mapsme bool, version int) error {
 
-	b, err := ioutil.ReadFile(`/Users/dave/src/gpx/trailnotes.json`)
+	b, err := ioutil.ReadFile(`/Users/dave/src/ght/trailnotes.json`)
 	if err != nil {
 		return err
 	}

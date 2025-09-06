@@ -1,4 +1,4 @@
-module github.com/dave/gpx
+module github.com/dave/ght
 
 go 1.23.0
 

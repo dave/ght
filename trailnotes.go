@@ -249,7 +249,7 @@ var functions = template.FuncMap{
 }
 
 func CreateTrailNotes(version int) error {
-	b, err := ioutil.ReadFile(`/Users/dave/src/gpx/trailnotes.json`)
+	b, err := ioutil.ReadFile(`/Users/dave/src/ght/trailnotes.json`)
 	if err != nil {
 		return err
 	}
