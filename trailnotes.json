@@ -1,0 +1,3276 @@
+{
+  "Legs": [
+    {
+      "Leg": 1,
+      "Vlog": 1,
+      "To": "Phurumbu",
+      "Length": 8.989852,
+      "Climb": 310,
+      "Descent": 988,
+      "Start": 2411,
+      "End": 1677,
+      "Top": 2421,
+      "Bottom": 1677,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 3,
+      "Notes": "Easy hike along a dirt road."
+    },
+    {
+      "Leg": 2,
+      "Vlog": 2,
+      "To": "Chiruwa",
+      "Length": 17.187244,
+      "Climb": 1307,
+      "Descent": 1749,
+      "Start": 1670,
+      "End": 1228,
+      "Top": 1709,
+      "Bottom": 1222,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 3,
+      "Notes": "Easy hike along a dirt road."
+    },
+    {
+      "Leg": 3,
+      "Vlog": 3,
+      "To": "Sukethum",
+      "Length": 10.52705,
+      "Climb": 991,
+      "Descent": 643,
+      "Start": 1225,
+      "End": 1573,
+      "Top": 1611,
+      "Bottom": 1225,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 4,
+      "Notes": "Easy hike along a well maintained trail."
+    },
+    {
+      "Leg": 4,
+      "Vlog": 4,
+      "To": "Amjilosa",
+      "Length": 8.087811,
+      "Climb": 1233,
+      "Descent": 464,
+      "Start": 1574,
+      "End": 2396,
+      "Top": 2408,
+      "Bottom": 1540,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 3,
+      "Notes": "Easy hike along a well maintained trail."
+    },
+    {
+      "Leg": 5,
+      "Vlog": 5,
+      "To": "Gyabla",
+      "Length": 7.548084,
+      "Climb": 1038,
+      "Descent": 788,
+      "Start": 2392,
+      "End": 2709,
+      "Top": 2711,
+      "Bottom": 2373,
+      "Route": 5,
+      "Trail": 4,
+      "Lodge": "G",
+      "Quality": 5,
+      "Notes": "Simple hike along an easy to follow trail."
+    },
+    {
+      "Leg": 6,
+      "Vlog": 7,
+      "To": "Ghunsa",
+      "Length": 10.520734,
+      "Climb": 1123,
+      "Descent": 414,
+      "Start": 2711,
+      "End": 3420,
+      "Top": 3430,
+      "Bottom": 2667,
+      "Route": 5,
+      "Trail": 4,
+      "Lodge": "G",
+      "Quality": 5,
+      "Notes": "Simple hike along an easy to follow trail."
+    },
+    {
+      "Leg": 7,
+      "Vlog": 8,
+      "To": "Khangpachen",
+      "Length": 10.581304,
+      "Climb": 953,
+      "Descent": 292,
+      "Start": 3422,
+      "End": 4083,
+      "Top": 4093,
+      "Bottom": 3422,
+      "Route": 5,
+      "Trail": 3,
+      "Lodge": "G",
+      "Quality": 4,
+      "Notes": "Trail was occasionally tricky to follow as it traversed landslide areas."
+    },
+    {
+      "Leg": 8,
+      "Vlog": 10,
+      "To": "Lhonak",
+      "Length": 9.928946,
+      "Climb": 937,
+      "Descent": 265,
+      "Start": 4082,
+      "End": 4754,
+      "Top": 4756,
+      "Bottom": 4081,
+      "Route": 4,
+      "Trail": 2,
+      "Lodge": "G",
+      "Quality": 1,
+      "Notes": "Trail was usually easy to follow with a few tricky areas. I made a mistake and ended up higher up the bank of the river traversing across a very dangerous landslide area. In the end I managed to descend safely to the river bed but then spent an hour scrambling over large boulders before I found the trail again."
+    },
+    {
+      "Leg": 9,
+      "Vlog": 12,
+      "To": "Pangpema",
+      "Length": 7.930313,
+      "Climb": 636,
+      "Descent": 257,
+      "Start": 4757,
+      "End": 5136,
+      "Top": 5146,
+      "Bottom": 4746,
+      "Route": 3,
+      "Trail": 2,
+      "Lodge": "C",
+      "Quality": 3,
+      "Notes": "Trail was tricky to follow with a couple of large new landslides which meant lengthy diversions to find safe places to cross, and scrambling. Update from Kate (summer 2022): \"The recent landslides Dave went through are fine\""
+    },
+    {
+      "Leg": 10,
+      "Vlog": 13,
+      "To": "Lhonak",
+      "Length": 7.853211,
+      "Climb": 254,
+      "Descent": 633,
+      "Start": 5134,
+      "End": 4755,
+      "Top": 5146,
+      "Bottom": 4746,
+      "Route": 3,
+      "Trail": 2,
+      "Lodge": "G",
+      "Quality": 1,
+      "Notes": "This is the reverse of leg 9. I hiked from base camp all the way to Kangpachen in one day so I didn't stay at Lhonak overnight."
+    },
+    {
+      "Leg": 11,
+      "Vlog": 13,
+      "To": "Kangpachen",
+      "Length": 9.78482,
+      "Climb": 264,
+      "Descent": 930,
+      "Start": 4756,
+      "End": 4090,
+      "Top": 4756,
+      "Bottom": 4090,
+      "Route": 4,
+      "Trail": 2,
+      "Lodge": "G",
+      "Quality": 4,
+      "Notes": "This is the reverse of leg 8. "
+    },
+    {
+      "Leg": 12,
+      "Vlog": 14,
+      "To": "Ghunsa",
+      "Length": 10.805447,
+      "Climb": 292,
+      "Descent": 968,
+      "Start": 4095,
+      "End": 3419,
+      "Top": 4095,
+      "Bottom": 3419,
+      "Route": 5,
+      "Trail": 3,
+      "Lodge": "G",
+      "Quality": 5,
+      "Notes": "This is the reverse of leg 7."
+    },
+    {
+      "Leg": 13,
+      "Vlog": 16,
+      "To": "Kharka",
+      "Length": 5.520958,
+      "Climb": 988,
+      "Descent": 245,
+      "Start": 3422,
+      "End": 4165,
+      "Top": 4165,
+      "Bottom": 3339,
+      "Route": 4,
+      "Trail": 2,
+      "Lodge": "C",
+      "Quality": 4,
+      "Notes": "The trail was tricky trail to follow."
+    },
+    {
+      "Leg": 14,
+      "Vlog": 17,
+      "To": "Yangjong Kharka",
+      "Length": 8.630691,
+      "Climb": 630,
+      "Descent": 1055,
+      "Start": 4163,
+      "End": 3738,
+      "Top": 4773,
+      "Bottom": 3738,
+      "Route": 4,
+      "Trail": 1,
+      "Lodge": "S",
+      "Quality": 5,
+      "Notes": "Trail was almost non existent and obscured with snow for much of the day. However above the tree line the terrain was open so the route was easy to follow without a trail on the ground."
+    },
+    {
+      "Leg": 15,
+      "Vlog": 18,
+      "To": "Olangchun Gola",
+      "Length": 11.462238,
+      "Climb": 864,
+      "Descent": 1413,
+      "Start": 3741,
+      "End": 3192,
+      "Top": 3756,
+      "Bottom": 2751,
+      "Route": 4,
+      "Trail": 2,
+      "Lodge": "G",
+      "Quality": 3,
+      "Notes": "Tricky trail to follow, especially the first half before the new bridge. I suspect this trial will be changing regularly, because it was relatively new (spring 2019). Update from Kate (summer 2022): \"Deviation - the new trail Dave took is no longer visible. We took the old trail further north. Very overgrown and difficult to follow. The 'new' bridge is still there, but we could not find any trail on the east side of the river. Bridge on the route I took is further upstream than the river crossing shown on GPS.\" I've added a new waypoint \"North Bridge\" showing where Kate found the bridge."
+    },
+    {
+      "Leg": 16,
+      "Vlog": 21,
+      "To": "Pass Camp",
+      "Length": 15.044908,
+      "Climb": 1777,
+      "Descent": 119,
+      "Start": 3192,
+      "End": 4850,
+      "Top": 4850,
+      "Bottom": 3191,
+      "Route": 2,
+      "Trail": 2,
+      "Lodge": "C",
+      "Quality": 2,
+      "Notes": "After a simple section along a dirt road, the trail became much more difficult to follow. In the upper elevations the trail was completely obscured by deep snow."
+    },
+    {
+      "Leg": 17,
+      "Vlog": 22,
+      "To": "Thudam",
+      "Length": 13.747645,
+      "Climb": 391,
+      "Descent": 1688,
+      "Start": 4849,
+      "End": 3552,
+      "Top": 5163,
+      "Bottom": 3552,
+      "Route": 2,
+      "Trail": 2,
+      "Lodge": "H",
+      "Quality": 1,
+      "Notes": "In the upper elevations the trail was completely obscured by deep snow, but I believe the route follows a reasonable path across the pass."
+    },
+    {
+      "Leg": 18,
+      "Vlog": 23,
+      "To": "Jijibuk",
+      "Length": 9.296006,
+      "Climb": 724,
+      "Descent": 1477,
+      "Start": 3557,
+      "End": 2829,
+      "Top": 3560,
+      "Bottom": 2826,
+      "Route": 3,
+      "Trail": 2,
+      "Lodge": "H",
+      "Quality": 1,
+      "Notes": "The trail traverses a steep hillside, and rather dangerous in places. However, not too difficult to follow despite the warnings online of navigational blunders by previous hikers."
+    },
+    {
+      "Leg": 19,
+      "Vlog": 24,
+      "To": "Lingham",
+      "Length": 11.941939,
+      "Climb": 1200,
+      "Descent": 1670,
+      "Start": 2830,
+      "End": 2186,
+      "Top": 2859,
+      "Bottom": 1783,
+      "Route": 4,
+      "Trail": 4,
+      "Lodge": "G",
+      "Quality": 4,
+      "Notes": "The trail was relatively well maintained and easy to follow."
+    },
+    {
+      "Leg": 20,
+      "Vlog": 25,
+      "To": "Hongon",
+      "Length": 9.129361,
+      "Climb": 1159,
+      "Descent": 1045,
+      "Start": 2200,
+      "End": 2325,
+      "Top": 2325,
+      "Bottom": 2006,
+      "Route": 4,
+      "Trail": 3,
+      "Lodge": "G",
+      "Quality": 2,
+      "Notes": "The trail was mostly well maintained and easy to follow."
+    },
+    {
+      "Leg": 21,
+      "Vlog": 27,
+      "To": "Molun Pokhari",
+      "Length": 8.220382,
+      "Climb": 1749,
+      "Descent": 125,
+      "Start": 2338,
+      "End": 3962,
+      "Top": 4021,
+      "Bottom": 2338,
+      "Route": 3,
+      "Trail": 2,
+      "Lodge": "C",
+      "Quality": 3,
+      "Notes": "The trail was tricky to follow, and obscured by snow at higher elevations. The upper part of the valley that leads to the lake, and the traverse around the lake are extremely dangerous when covered in snow. I didn't have crampons which made matters worse."
+    },
+    {
+      "Leg": 22,
+      "Vlog": 28,
+      "To": "Clearing Camp",
+      "Length": 12.072978,
+      "Climb": 601.864503,
+      "Descent": 1566.802735,
+      "Start": 3964,
+      "End": 2999.061768,
+      "Top": 4217,
+      "Bottom": 2985.074043,
+      "Route": 1,
+      "Trail": 1,
+      "Lodge": "C",
+      "Quality": 3,
+      "Notes": "Robin's guidebook explains how to find a bridge over the Kholakharka Khola, but despite hours of searching I didn't manage to find it. I eventually stayed overnight in the shelter at the source of the river, where it's easy to cross. The next day I tried to follow the river downstream on the east bank, but found no trail and dense undergrowth. I gave up and called a helicopter. Craig (2019) got further by scrambling over rocks in the river gully, only to find the pass impossible the next day - he too ended up calling a helicopter. Suvi (2019) managed to find a way across the river, and I've added a waypoint with her approximate crossing point... However I'd only recommend crossing the river if there's a bridge. I have update this route from Mike (2025) with his accurate track. He didn't find a way across the river, and crossed at the source like I did. He managed to find a way down on the other side. It seems most people are doing this route, so I'd recommend following this option unless you can find an obvious way across the river lower down."
+    },
+    {
+      "Leg": 23,
+      "To": "Kalo Pokhari",
+      "Length": 6.505699,
+      "Climb": 1542.906053,
+      "Descent": 263.284027,
+      "Start": 2998,
+      "End": 4182.622026,
+      "Top": 4249.265636,
+      "Bottom": 2892,
+      "Route": 1,
+      "Trail": 1,
+      "Lodge": "C",
+      "Quality": 4,
+      "Notes": "I skipped this section. I've updated this route from Mike (2025) with his accurate track. Suvi (2019) reported that the trail is extremely tricky to follow with steep sections and sections of bushwhacking."
+    },
+    {
+      "Leg": 24,
+      "Vlog": "32,33",
+      "To": "Yangla Kharka",
+      "Length": 13.711815,
+      "Climb": 1043.355822,
+      "Descent": 1466.927337,
+      "Start": 4183.245484,
+      "End": 3759.673969,
+      "Top": 4420.618223,
+      "Bottom": 3449,
+      "Route": 1,
+      "Trail": 1,
+      "Lodge": "G",
+      "Quality": 3,
+      "Notes": "I skipped the first half of this section. I've updated this route from Mike (2025) with his accurate track. Mike added that there are several sets of steep stone steps going down from passes after Kalo Pokhari and in April/May they may be very snowy/icy. Micro spikes required at a minimum. Suvi (2019) reported that the trail is extremely tricky to follow with sections of bushwhacking. The second half of this leg (starting when you reach the Barun Nadi river) is reasonably easy to folow."
+    },
+    {
+      "Leg": 25,
+      "Vlog": 34,
+      "To": "Makalu Base Camp",
+      "Length": 13.921897,
+      "Climb": 1390,
+      "Descent": 309,
+      "Start": 3757,
+      "End": 4838,
+      "Top": 4897,
+      "Bottom": 3757,
+      "Route": 4,
+      "Trail": 3,
+      "Lodge": "G",
+      "Quality": 3,
+      "Notes": "The trail was reasonably easy to follow."
+    },
+    {
+      "Leg": 26,
+      "Vlog": 37,
+      "To": "Swiss Base Camp",
+      "Length": 4.515722,
+      "Climb": 459,
+      "Descent": 96,
+      "Start": 4838,
+      "End": 5201,
+      "Top": 5224,
+      "Bottom": 4838,
+      "Route": 2,
+      "Trail": 1,
+      "Lodge": "C",
+      "Quality": 1,
+      "Notes": "The trail was tricky to follow. For some sections we were scrambling over glacial moraine, following occasional cairns."
+    },
+    {
+      "Leg": 27,
+      "Vlog": 38,
+      "To": "Sherpani Col Base Camp",
+      "Length": 3.421864,
+      "Climb": 601,
+      "Descent": 106,
+      "Start": 5201,
+      "End": 5696,
+      "Top": 5696,
+      "Bottom": 5189,
+      "Route": 1,
+      "Trail": 1,
+      "Lodge": "C",
+      "Quality": 2,
+      "Notes": "The route follows steep glacial moraine all day. Very difficult and dangerous, sometimes climbing over precariously balanced boulders the size of cars. We were following occasional cairns to navigate - there was no trail on the ground."
+    },
+    {
+      "Leg": 28,
+      "Vlog": 39,
+      "To": "Advanced Base Camp",
+      "Length": 3.691509,
+      "Climb": 504,
+      "Descent": 87,
+      "Start": 5696,
+      "End": 6113,
+      "Top": 6162,
+      "Bottom": 5695,
+      "Route": 1,
+      "Trail": 1,
+      "Lodge": "C",
+      "Quality": 1,
+      "Notes": "The route is on crevassed, glaciated terrain all day. The safest route across the glacier and over Sherpani Col may change year-to-year so an experienced mountaineer in the group is absolutely essential. Full mountaineering gear is required for this leg."
+    },
+    {
+      "Leg": 29,
+      "Vlog": 39,
+      "To": "Barnutse Base Camp",
+      "Length": 5.424709,
+      "Climb": 46,
+      "Descent": 723,
+      "Start": 6114,
+      "End": 5437,
+      "Top": 6127,
+      "Bottom": 5431,
+      "Route": 1,
+      "Trail": 1,
+      "Lodge": "C",
+      "Quality": 4,
+      "Notes": "The route is on crevassed, glaciated terrain all day. The safest route across the plateau and over West Col may change year-to-year so an experienced mountaineer in the group is absolutely essential. Full mountaineering gear is required for this leg."
+    },
+    {
+      "Leg": 30,
+      "Vlog": 41,
+      "To": "Amphu Labsta Base Camp",
+      "Length": 5.542145,
+      "Climb": 304,
+      "Descent": 225,
+      "Start": 5435,
+      "End": 5514,
+      "Top": 5514,
+      "Bottom": 5350,
+      "Route": 1,
+      "Trail": 2,
+      "Lodge": "C",
+      "Quality": 1,
+      "Notes": "We didn't hike most of this leg, having followed a different path, so the ratings for route and trail are just for the last part of this leg. The part of the trail we did hike was tricky to follow and frequently involved scrambling over glacial moraine."
+    },
+    {
+      "Leg": 31,
+      "Vlog": 42,
+      "To": "Chhukung",
+      "Length": 10.53933,
+      "Climb": 403,
+      "Descent": 1087,
+      "Start": 5515,
+      "End": 4728,
+      "Top": 5827,
+      "Bottom": 4728,
+      "Route": 1,
+      "Trail": 1,
+      "Lodge": "G",
+      "Quality": 4,
+      "Notes": "Amphu Labsta is one of the most dangerous passes in Nepal, and the route climbs technical terrain to reach the pass. The safest route may change year-to-year so an experienced mountaineer in the group is absolutely essential. Full mountaineering gear is required for this leg."
+    },
+    {
+      "Leg": 32,
+      "Vlog": 43,
+      "To": "Dingboche",
+      "Length": 4.540026,
+      "Climb": 28,
+      "Descent": 412,
+      "Start": 4732,
+      "End": 4348,
+      "Top": 4732,
+      "Bottom": 4346,
+      "Route": 5,
+      "Trail": 4,
+      "Lodge": "G",
+      "Quality": 3,
+      "Notes": "The trail was well maintained and easy to follow."
+    },
+    {
+      "Leg": 33,
+      "Vlog": 45,
+      "To": "Lobuche",
+      "Length": 7.725343,
+      "Climb": 772,
+      "Descent": 197,
+      "Start": 4350,
+      "End": 4925,
+      "Top": 4925,
+      "Bottom": 4332,
+      "Route": 0,
+      "Trail": 0,
+      "Lodge": "G",
+      "Quality": 0,
+      "Notes": "We skipped the Everest Base Camp side-trek and hiked directly to Dzongla (leg 36). However, all the main trails in the Everest region are likely to be well maintained. The guesthouses are usually excellent but expensive."
+    },
+    {
+      "Leg": 34,
+      "To": "Gorak Shep",
+      "Length": 7.963718,
+      "Climb": 774,
+      "Descent": 542,
+      "Start": 4923,
+      "End": 5155,
+      "Top": 5581,
+      "Bottom": 4918,
+      "Route": 0,
+      "Trail": 0,
+      "Lodge": "G",
+      "Quality": 0,
+      "Notes": "See leg 33"
+    },
+    {
+      "Leg": 35,
+      "To": "Lobuche",
+      "Length": 14.210743,
+      "Climb": 484,
+      "Descent": 732,
+      "Start": 5166,
+      "End": 4918,
+      "Top": 5328,
+      "Bottom": 4918,
+      "Route": 0,
+      "Trail": 0,
+      "Lodge": "G",
+      "Quality": 0,
+      "Notes": "See leg 33"
+    },
+    {
+      "Leg": 36,
+      "Vlog": 45,
+      "To": "Dzongla",
+      "Length": 6.36395,
+      "Climb": 232,
+      "Descent": 324,
+      "Start": 4920,
+      "End": 4828,
+      "Top": 4920,
+      "Bottom": 4742,
+      "Route": 5,
+      "Trail": 4,
+      "Lodge": "G",
+      "Quality": 4,
+      "Notes": "The trail was well maintained and easy to follow."
+    },
+    {
+      "Leg": 37,
+      "Vlog": 46,
+      "To": "Dragnag",
+      "Length": 7.969635,
+      "Climb": 664,
+      "Descent": 727,
+      "Start": 4827,
+      "End": 4680,
+      "Top": 5372,
+      "Bottom": 4678,
+      "Route": 4,
+      "Trail": 3,
+      "Lodge": "G",
+      "Quality": 3,
+      "Notes": "The trail was tricky to follow and sometimes obscured by snow in the higher elevations."
+    },
+    {
+      "Leg": 38,
+      "Vlog": 46,
+      "To": "Gokyo",
+      "Length": 7.488465,
+      "Climb": 783,
+      "Descent": 717,
+      "Start": 4692,
+      "End": 4758,
+      "Top": 5341,
+      "Bottom": 4685,
+      "Route": 1,
+      "Trail": 1,
+      "Lodge": "G",
+      "Quality": 5,
+      "Notes": "The trail crosses an enormous glacier, which is constantly eroding and changing. The path is marked by cairns but these seem to be placed all over the place and don't really mark out a single trail. We took many wrong turns and had to backtrack several times."
+    },
+    {
+      "Leg": 39,
+      "Vlog": 50,
+      "To": "Lumde",
+      "Length": 12.359111,
+      "Climb": 839,
+      "Descent": 1229,
+      "Start": 4750,
+      "End": 4360,
+      "Top": 5389,
+      "Bottom": 4343,
+      "Route": 4,
+      "Trail": 3,
+      "Lodge": "G",
+      "Quality": 5,
+      "Notes": "The trail was mostly easy to follow, becoming tricky in the higher elevations on the approach to the pass, and improving again on the descent down to Lumde."
+    },
+    {
+      "Leg": 40,
+      "Vlog": 51,
+      "To": "Thame",
+      "Length": 9.509527,
+      "Climb": 175,
+      "Descent": 749,
+      "Start": 4364,
+      "End": 3790,
+      "Top": 4373,
+      "Bottom": 3790,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 5,
+      "Notes": "Easy hike along a well maintained trail."
+    },
+    {
+      "Leg": 41,
+      "Vlog": 53,
+      "To": "Thyangbo",
+      "Length": 5.049583,
+      "Climb": 606,
+      "Descent": 91,
+      "Start": 3793,
+      "End": 4308,
+      "Top": 4312,
+      "Bottom": 3792,
+      "Route": 4,
+      "Trail": 4,
+      "Lodge": "G",
+      "Quality": 2,
+      "Notes": "Simple hike along an easy to follow trail."
+    },
+    {
+      "Leg": 42,
+      "Vlog": 55,
+      "To": "Tashi Labsta Camp",
+      "Length": 5.502784,
+      "Climb": 996,
+      "Descent": 89,
+      "Start": 4309,
+      "End": 5216,
+      "Top": 5216,
+      "Bottom": 4308,
+      "Route": 4,
+      "Trail": 2,
+      "Lodge": "C",
+      "Quality": 1,
+      "Notes": "The trail started off easy to follow, but because progressively harder as the day went on. The final part to the campsite was a scramble up a steep rocky slope."
+    },
+    {
+      "Leg": 43,
+      "Vlog": 56,
+      "To": "Glacier Camp",
+      "Length": 8.414524,
+      "Climb": 772,
+      "Descent": 1106,
+      "Start": 5213,
+      "End": 4879,
+      "Top": 5771,
+      "Bottom": 4879,
+      "Route": 1,
+      "Trail": 1,
+      "Lodge": "C",
+      "Quality": 1,
+      "Notes": "The route is on crevassed, glaciated terrain for most of the day. Although not as technical as Amphu Labsta, the same warnings apply. The safest route across Tashi Labsta may change year-to-year so an experienced mountaineer in the group is absolutely essential. Full mountaineering gear is required for this leg."
+    },
+    {
+      "Leg": 44,
+      "Vlog": 57,
+      "To": "Na",
+      "Length": 13.647553,
+      "Climb": 515,
+      "Descent": 1212,
+      "Start": 4877,
+      "End": 4180,
+      "Top": 4887,
+      "Bottom": 4168,
+      "Route": 1,
+      "Trail": 1,
+      "Lodge": "G",
+      "Quality": 4,
+      "Notes": "The first half of this leg follows the glacier, a huge boulder field. An altogether unpleasant experience. There is a trail along the top of the lateral moraine on the left side, and I believe it starts earlier than we picked it up, so I would recommend trying to climb the moraine before our route does. The second half of the day was an easy to follow trail down the Na."
+    },
+    {
+      "Leg": 45,
+      "Vlog": 58,
+      "To": "Beding",
+      "Length": 6.237419,
+      "Climb": 149,
+      "Descent": 620,
+      "Start": 4183,
+      "End": 3712,
+      "Top": 4183,
+      "Bottom": 3711,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 2,
+      "Notes": "Easy hike along a well maintained trail."
+    },
+    {
+      "Leg": 46,
+      "Vlog": 60,
+      "To": "Dokhang",
+      "Length": 10.281848,
+      "Climb": 549,
+      "Descent": 1357,
+      "Start": 3712,
+      "End": 2788,
+      "Top": 3713,
+      "Bottom": 2788,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 4,
+      "Notes": "Easy hike along a well maintained trail."
+    },
+    {
+      "Leg": 47,
+      "Vlog": 61,
+      "To": "Simigaon",
+      "Length": 9.357738,
+      "Climb": 667,
+      "Descent": 1461,
+      "Start": 2789,
+      "End": 1995,
+      "Top": 2861,
+      "Bottom": 1995,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 1,
+      "Notes": "Easy hike along a well maintained trail. The rating is for the guesthouse we stayed in at Gonggar. Guesthouses in Simigaon may well be better."
+    },
+    {
+      "Leg": 48,
+      "Vlog": 62,
+      "To": "Orangdanda",
+      "Length": 13.380199,
+      "Climb": 1612,
+      "Descent": 1520,
+      "Start": 1992,
+      "End": 1977,
+      "Top": 2035,
+      "Bottom": 1266,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "H",
+      "Quality": 2,
+      "Notes": "Easy hike along a well maintained trail."
+    },
+    {
+      "Leg": 49,
+      "Vlog": 63,
+      "To": "Laduk",
+      "Length": 8.706447,
+      "Climb": 672,
+      "Descent": 611,
+      "Start": 1986,
+      "End": 2047,
+      "Top": 2052,
+      "Bottom": 1839,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "H",
+      "Quality": 2,
+      "Notes": "Easy hike along a dirt road."
+    },
+    {
+      "Leg": 50,
+      "Vlog": 64,
+      "To": "Loting",
+      "Length": 12.485603,
+      "Climb": 782,
+      "Descent": 1014,
+      "Start": 2049,
+      "End": 1765,
+      "Top": 2054,
+      "Bottom": 1664,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 2,
+      "Notes": "Easy hike along a well maintained trail."
+    },
+    {
+      "Leg": 51,
+      "Vlog": 65,
+      "To": "Bigu Gompa",
+      "Length": 14.86548,
+      "Climb": 1616,
+      "Descent": 884,
+      "Start": 1770,
+      "End": 2502,
+      "Top": 2502,
+      "Bottom": 1750,
+      "Route": 5,
+      "Trail": 4,
+      "Lodge": "G",
+      "Quality": 5,
+      "Notes": "Simple hike along an easy to follow trail."
+    },
+    {
+      "Leg": 52,
+      "Vlog": 67,
+      "To": "Tinsang Kewa",
+      "Length": 12.213742,
+      "Climb": 1492,
+      "Descent": 771,
+      "Start": 2505,
+      "End": 3283,
+      "Top": 3283,
+      "Bottom": 2164,
+      "Route": 1,
+      "Trail": 1,
+      "Lodge": "C",
+      "Quality": 5,
+      "Notes": "A tricky trail to follow, especially around the River waypoint. Update from Kate (2021): \"Continue on the road. It switches back to the river and turns into a trail. No need for bushwhacking.\""
+    },
+    {
+      "Leg": 53,
+      "Vlog": 68,
+      "To": "Sano Jyandan",
+      "Length": 7.907374,
+      "Climb": 415,
+      "Descent": 785,
+      "Start": 3285,
+      "End": 2915,
+      "Top": 3355,
+      "Bottom": 2915,
+      "Route": 1,
+      "Trail": 1,
+      "Lodge": "G",
+      "Quality": 2,
+      "Notes": "The first part of this leg was a very dangerous traverse across a steep hillside above cliffs with very little in the way of a path - a slip here could have been deadly. We then had to negotiate a section of dense rhododendron bushes with many dead-ends and backtracking. Hundreds of leeches were a major annoyance. After that we found a dirt road, but a major navigational blunder meant we missed the correct trail Sano Jyandan. We didn't stay at Sano Jyandan, so the rating is for the guesthouse we stayed at in Madre. However, I have left the route going via Sano Jyandan and I would recommend you try to follow it. If anyone has successfully completed this section, please get in touch (dave@brophy.uk) because I'd love to integrate your GPS tracks into this route. Note that in the vlog I incorrectly state that we passed Sano Jyandan, in fact our track turns off well before this. Update from Kate (2021): \"If you are on steep cliffs you are not high enough. We left the road from Tinsang Kewa at the high point where there are prayer flags. Followed a light animal trail that became a nice trail that continued farther up. It was to the right of your GPX track. No dangerous parts.\""
+    },
+    {
+      "Leg": 54,
+      "Vlog": 69,
+      "To": "Last Resort",
+      "Length": 11.879471,
+      "Climb": 478,
+      "Descent": 1742,
+      "Start": 2915,
+      "End": 1211,
+      "Top": 2951,
+      "Bottom": 1174,
+      "Route": 1,
+      "Trail": 1,
+      "Lodge": "G",
+      "Quality": 5,
+      "Notes": "Our navigational blunder from the previous day meant we skipped most of this leg, however I suspect the section we missed is tricky, since there is no trail shown on digital maps. Update from Kate (2021): \"We did make it through to Sano Jyandan and on. There are many trails to follow so it took a lot of trial and error. The \"L054 Trail\" waypoint marks the beginning of the trail that is the correct route. It is a trail for a while then comes to a road. Both the road and trail go to the same place. The trail is shorter, but very slippery when muddy. There are trails that go in the direction of the GPX route, but they all turned to dead ends.\""
+    },
+    {
+      "Leg": 55,
+      "Vlog": 71,
+      "To": "Chagam",
+      "Length": 11.104976,
+      "Climb": 1841,
+      "Descent": 494,
+      "Start": 1219,
+      "End": 2566,
+      "Top": 2574,
+      "Bottom": 1216,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "H",
+      "Quality": 5,
+      "Notes": "Easy hike along a dirt road. Note that the paper maps any other itineraries take a higher path via Shotang Kharka towards Kyansin. We took the lower route which seemed like a better trail via Chagam. The adventurous among you may try following the paper maps via Shotang Kharka."
+    },
+    {
+      "Leg": 56,
+      "Vlog": 72,
+      "To": "Kyansin",
+      "Length": 11.485228,
+      "Climb": 1295,
+      "Descent": 1299,
+      "Start": 2581,
+      "End": 2519,
+      "Top": 3062,
+      "Bottom": 2519,
+      "Route": 2,
+      "Trail": 2,
+      "Lodge": "H",
+      "Quality": 2,
+      "Notes": "The trail was very tricky to follow, with frequent sections of bushwhacking."
+    },
+    {
+      "Leg": 57,
+      "Vlog": 73,
+      "To": "Tembathang",
+      "Length": 8.735357,
+      "Climb": 904,
+      "Descent": 1162,
+      "Start": 2497,
+      "End": 2218,
+      "Top": 2502,
+      "Bottom": 1845,
+      "Route": 4,
+      "Trail": 3,
+      "Lodge": "H",
+      "Quality": 2,
+      "Notes": "The trail was reasonably easy to follow. We spent considerable effort trying to find a local guide to take us to Tilman's Pass. We didn't find one in the end, and it proved completely unnecessary - the GPX route is all we needed and found the pass easily."
+    },
+    {
+      "Leg": 58,
+      "Vlog": "74,75",
+      "To": "Panch Pokhari",
+      "Length": 13.08955,
+      "Climb": 2511,
+      "Descent": 807,
+      "Start": 2187,
+      "End": 4058,
+      "Top": 4156,
+      "Bottom": 2116,
+      "Route": 4,
+      "Trail": 3,
+      "Lodge": "S",
+      "Quality": 3,
+      "Notes": "The trail was reasonably easy to follow. Update from Kate (2021): \"There is a new trail (2021) the last few k’s before Panch Pokhari that some yak herders showed us.\""
+    },
+    {
+      "Leg": 59,
+      "Vlog": 76,
+      "To": "Tin Pokhari",
+      "Length": 11.072049,
+      "Climb": 1106,
+      "Descent": 1038,
+      "Start": 4057,
+      "End": 4176,
+      "Top": 4402,
+      "Bottom": 3928,
+      "Route": 4,
+      "Trail": 2,
+      "Lodge": "C",
+      "Quality": 4,
+      "Notes": "The trail was tricky to follow at times, but the route is correct and the terrain is quite open so going in the right direction shouldn't be a problem."
+    },
+    {
+      "Leg": 60,
+      "Vlog": 77,
+      "To": "High South Camp",
+      "Length": 6.497859,
+      "Climb": 934,
+      "Descent": 144,
+      "Start": 4173,
+      "End": 4963,
+      "Top": 4969,
+      "Bottom": 4150,
+      "Route": 1,
+      "Trail": 1,
+      "Lodge": "C",
+      "Quality": 1,
+      "Notes": "The trail follows the glacier up to Tillmans Pass, and involves scrambling over glacial boulder fields for most of the day. I believe we made a mistake by following the lateral moraine on the west side of the glacier. A better option would be to get on the east side. This would mean less scrambling since you don't have to cross a second glacier that joins from the west."
+    },
+    {
+      "Leg": 61,
+      "Vlog": 78,
+      "To": "High North Camp",
+      "Length": 6.166252,
+      "Climb": 459,
+      "Descent": 875,
+      "Start": 4963,
+      "End": 4547,
+      "Top": 5315,
+      "Bottom": 4539,
+      "Route": 1,
+      "Trail": 1,
+      "Lodge": "C",
+      "Quality": 3,
+      "Notes": "The route crosses crevassed, glaciated terrain. Although not as technical as Tashi Labsta or Amphu Labsta, care is needed. The safest route across Tilman's Pass may change year-to-year so some mountaineering experience is recommended. Full mountaineering gear is recommended for this leg."
+    },
+    {
+      "Leg": 62,
+      "Vlog": "79,80",
+      "To": "Kyangjin Gompa",
+      "Length": 15.70567,
+      "Climb": 418,
+      "Descent": 1099,
+      "Start": 4546,
+      "End": 3865,
+      "Top": 4546,
+      "Bottom": 3825,
+      "Route": 1,
+      "Trail": 1,
+      "Lodge": "G",
+      "Quality": 4,
+      "Notes": "We had major problems here. The route before the Langtang Khola crossing is very wild - no trail on the ground and often bushwhacking through dense shrubland. Moving through this terrain is slow and frustrating. We descended the Langshisha Khola from High North Camp on the west moraine towards Langshisha Kharka. This was a bad decision because the only bridge over the Langtang Khola was on the east side of the Langshisha Khola. We spent most of the day bushwhacking back up the Langshisha Khola through dense shrubland to find a safe place to cross, only to give up and return to Langshisha Kharka to camp overnight. We continued searching early the next morning, hoping the water would be lower. It was noticeably lower but still too dangerous to cross. Our party split up, and the two others managed to cross the Langshisha Khola nearer the glacier. Mathi and I eventually made a very dangerous crossing of the Langtang Khola assisted by a rope. We were swept away by the fast flowing river and dragged to safety by the others on the opposite side. This was a really bad idea and not recommended in the slightest. I have updated the route to immediately descend from High North Camp and cross the Langshisha Khola as soon as possible. Be very careful descending from High North Camp towards the Langshisha Khola - in October 2021 Eyal experienced very difficult terrain and dangerous avalanche conditions here and had a bad fall. Take your time and be prepared to backtrack to find a safer route. Once you're across the Langshisha Khola, the route continues down on the east side to the bridge. Be aware that this was the situation in spring 2019, and the bridge may have been changed (update in October 2021: the bridge is still there). Also with less water in the river this could have been a completely different experience. After you cross the Langtang Khola to the north bank you pick up the Langtang trail which is well maintained and easy to follow. Update from Kate (2021): \"Where your GPX marks that you go down to the river has been taken out by landslides. At this part we went back up to the left parallel to the river until it flattened out a bit. We crossed one landslide gully and then followed the second one down to the river. We had no visibility so one might be able to see a better route. We had no problems on the climb down, but I imagine it is constantly changing. We were able to cross the river just upstream from where we reached the river and had no problems on the east side.\""
+    },
+    {
+      "Leg": 63,
+      "Vlog": 82,
+      "To": "Changdam",
+      "Length": 18.554209,
+      "Climb": 604,
+      "Descent": 1999,
+      "Start": 3864,
+      "End": 2469,
+      "Top": 3865,
+      "Bottom": 2469,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 2,
+      "Notes": "Easy hike along a well maintained trail."
+    },
+    {
+      "Leg": 64,
+      "Vlog": 83,
+      "To": "Syabru Besi",
+      "Length": 11.15706,
+      "Climb": 541,
+      "Descent": 1496,
+      "Start": 2470,
+      "End": 1461,
+      "Top": 2521,
+      "Bottom": 1434,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 5,
+      "Notes": "Easy hike along a well maintained trail."
+    },
+    {
+      "Leg": 65,
+      "Vlog": 88,
+      "To": "Gatlang",
+      "Length": 11.78985,
+      "Climb": 1561,
+      "Descent": 720,
+      "Start": 1446,
+      "End": 2287,
+      "Top": 2404,
+      "Bottom": 1437,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 3,
+      "Notes": "Easy hike along a well maintained trail."
+    },
+    {
+      "Leg": 66,
+      "Vlog": 89,
+      "To": "Somdang",
+      "Length": 12.702246,
+      "Climb": 1921,
+      "Descent": 960,
+      "Start": 2310,
+      "End": 3271,
+      "Top": 3734,
+      "Bottom": 2310,
+      "Route": 5,
+      "Trail": 4,
+      "Lodge": "G",
+      "Quality": 4,
+      "Notes": "Simple hike along an easy to follow trail."
+    },
+    {
+      "Leg": 67,
+      "Vlog": 90,
+      "To": "Tipling",
+      "Length": 14.128315,
+      "Climb": 1050,
+      "Descent": 1909,
+      "Start": 3277,
+      "End": 2050,
+      "Top": 3904,
+      "Bottom": 2050,
+      "Route": 1,
+      "Trail": 3,
+      "Lodge": "H",
+      "Quality": 1,
+      "Notes": "Take care to find where the footpath diverges from the road. We made a navigational blunder by following the road too far. The road leads to Tipling but switchbacks mean it is 29km long instead of 14km on the footpath. In the end we bushwhacked for an hour back to the footpath. Once you're on the footpath it's relatively easy to follow."
+    },
+    {
+      "Leg": 68,
+      "Vlog": "91,92",
+      "To": "Khading",
+      "Length": 16.705178,
+      "Climb": 1657.823428,
+      "Descent": 1632.771137,
+      "Start": 2049,
+      "End": 2056.05229,
+      "Top": 2058,
+      "Bottom": 1195,
+      "Route": 4,
+      "Trail": 3,
+      "Lodge": "G",
+      "Quality": 1,
+      "Notes": "Heavy rain in the afternoon meant we split this leg over two days and stayed overnight at Borang. The trail was relatively well maintained and easy to follow. Jeff (2025) found a better route for the next leg, so I've updated the last part of this leg to follow his track to Khading."
+    },
+    {
+      "Leg": 69,
+      "Vlog": "95,97",
+      "To": "Kashigaun",
+      "Length": 21.621739,
+      "Climb": 2373.110393,
+      "Descent": 2525.920283,
+      "Start": 2061.5,
+      "End": 1908.690111,
+      "Top": 3019.487606,
+      "Bottom": 1623.984341,
+      "Route": 1,
+      "Trail": 2,
+      "Lodge": "G",
+      "Quality": 1,
+      "Notes": "We took a different route via Dharot, but this is not recommended. Jeff (2025) found a better route so I've updated this leg to follow his track."
+    },
+    {
+      "Leg": 70,
+      "Vlog": 98100,
+      "To": "Khorlabesi",
+      "Length": 12.708446,
+      "Climb": 1141.811487,
+      "Descent": 2165.562722,
+      "Start": 1909.751235,
+      "End": 886,
+      "Top": 2028,
+      "Bottom": 855,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 3,
+      "Notes": "Easy hike along a well maintained trail."
+    },
+    {
+      "Leg": 71,
+      "Vlog": 101,
+      "To": "Jagat",
+      "Length": 12.927251,
+      "Climb": 1421,
+      "Descent": 848,
+      "Start": 887,
+      "End": 1332,
+      "Top": 1583,
+      "Bottom": 867,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 4,
+      "Notes": "Easy hike along a well maintained trail."
+    },
+    {
+      "Leg": 72,
+      "Vlog": 104,
+      "To": "Deng",
+      "Length": 18.721822,
+      "Climb": 2609,
+      "Descent": 1738,
+      "Start": 1336,
+      "End": 1881,
+      "Top": 2171,
+      "Bottom": 1309,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 3,
+      "Notes": "Easy hike along a well maintained trail. Note that the elevation profile of the GPX route is not accurate today. The trail follows a smooth gradient all day without the large climb and descent shown at the end."
+    },
+    {
+      "Leg": 73,
+      "Vlog": 105,
+      "To": "Namrung",
+      "Length": 18.135033,
+      "Climb": 2705,
+      "Descent": 1992,
+      "Start": 1901,
+      "End": 2614,
+      "Top": 2691,
+      "Bottom": 1840,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 5,
+      "Notes": "Easy hike along a well maintained trail."
+    },
+    {
+      "Leg": 74,
+      "Vlog": 106,
+      "To": "Sama",
+      "Length": 16.861375,
+      "Climb": 1884,
+      "Descent": 980,
+      "Start": 2607,
+      "End": 3511,
+      "Top": 3573,
+      "Bottom": 2591,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 2,
+      "Notes": "Easy hike along a well maintained trail."
+    },
+    {
+      "Leg": 75,
+      "Vlog": 107,
+      "To": "Dharmasala",
+      "Length": 14.703938,
+      "Climb": 1360,
+      "Descent": 396,
+      "Start": 3512,
+      "End": 4476,
+      "Top": 4477,
+      "Bottom": 3510,
+      "Route": 5,
+      "Trail": 4,
+      "Lodge": "G",
+      "Quality": 2,
+      "Notes": "Easy hike along a well maintained trail."
+    },
+    {
+      "Leg": 76,
+      "Vlog": 108,
+      "To": "Bimtang",
+      "Length": 15.877144,
+      "Climb": 834,
+      "Descent": 1599,
+      "Start": 4469,
+      "End": 3704,
+      "Top": 5152,
+      "Bottom": 3704,
+      "Route": 5,
+      "Trail": 3,
+      "Lodge": "G",
+      "Quality": 4,
+      "Notes": "Simple hike along an easy to follow trail."
+    },
+    {
+      "Leg": 77,
+      "Vlog": 109,
+      "To": "Dharapani",
+      "Length": 22.553106,
+      "Climb": 1160,
+      "Descent": 2915,
+      "Start": 3704,
+      "End": 1884,
+      "Top": 3715,
+      "Bottom": 1880,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 5,
+      "Notes": "Easy hike along a well maintained trail. Update from Kate (summer 2022): \"Bridge at Dharapani is out. Have to continue approx 1 km upstream on road for bridge.\""
+    },
+    {
+      "Leg": 78,
+      "Vlog": 110,
+      "To": "Chame",
+      "Length": 15.523873,
+      "Climb": 1591,
+      "Descent": 805,
+      "Start": 1885,
+      "End": 2671,
+      "Top": 2745,
+      "Bottom": 1885,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 4,
+      "Notes": "Easy hike along a well maintained trail."
+    },
+    {
+      "Leg": 79,
+      "Vlog": 111112,
+      "To": "Upper Pisang",
+      "Length": 13.082451,
+      "Climb": 1741,
+      "Descent": 932,
+      "Start": 2671,
+      "End": 3297,
+      "Top": 3878,
+      "Bottom": 1771,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 4,
+      "Notes": "Easy hike along a well maintained trail."
+    },
+    {
+      "Leg": 80,
+      "Vlog": 113,
+      "To": "Manang",
+      "Length": 19.409525,
+      "Climb": 1201,
+      "Descent": 963,
+      "Start": 3308,
+      "End": 3546,
+      "Top": 3805,
+      "Bottom": 3278,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 3,
+      "Notes": "Easy hike along a well maintained trail. We did an alternative route from the section from Manang to Kagbeni. We had both hiked the standard route via Thorong La before, so instead we hiked to Tilicho Lake and over Mesokanto La to Jomson and on to Kagbeni. This is an excellent option if you want a more remote route. It involves two nights of camping and some tricky to follow trails. I will include trail notes for this option at the end."
+    },
+    {
+      "Leg": 81,
+      "To": "Thorong Phedi",
+      "Length": 16.597558,
+      "Climb": 1557,
+      "Descent": 559,
+      "Start": 3546,
+      "End": 4544,
+      "Top": 4544,
+      "Bottom": 3545,
+      "Route": 5,
+      "Trail": 4,
+      "Lodge": "G",
+      "Quality": 3,
+      "Notes": "Simple hike along an easy to follow trail."
+    },
+    {
+      "Leg": 82,
+      "To": "Muktinath",
+      "Length": 14.664148,
+      "Climb": 997,
+      "Descent": 1715,
+      "Start": 4529,
+      "End": 3754,
+      "Top": 5414,
+      "Bottom": 3719,
+      "Route": 5,
+      "Trail": 4,
+      "Lodge": "G",
+      "Quality": 5,
+      "Notes": "Simple hike along an easy to follow trail."
+    },
+    {
+      "Leg": 83,
+      "To": "Kagbeni",
+      "Length": 10.30541,
+      "Climb": 149,
+      "Descent": 1051,
+      "Start": 3750,
+      "End": 2848,
+      "Top": 3751,
+      "Bottom": 2835,
+      "Route": 5,
+      "Trail": 4,
+      "Lodge": "G",
+      "Quality": 4,
+      "Notes": "Simple hike along an easy to follow trail."
+    },
+    {
+      "Leg": 84,
+      "Vlog": 120,
+      "To": "Santa",
+      "Length": 19.928602,
+      "Climb": 2161,
+      "Descent": 1367,
+      "Start": 2912,
+      "End": 3784,
+      "Top": 4494,
+      "Bottom": 2853,
+      "Route": 4,
+      "Trail": 2,
+      "Lodge": "H",
+      "Quality": 2,
+      "Notes": "The trail was occasionally tricky to follow. Be aware that from here onwards for the rest of the trek, the trails have a lot less water sources than the east of the country. There were several days where there was only one water source for the whole day. On a sunny day you may need to start with more water than you're used to."
+    },
+    {
+      "Leg": 85,
+      "Vlog": 121,
+      "To": "Ghalden Ghuldun",
+      "Length": 8.833651,
+      "Climb": 1214,
+      "Descent": 752,
+      "Start": 3785,
+      "End": 4247,
+      "Top": 4248,
+      "Bottom": 3659,
+      "Route": 4,
+      "Trail": 3,
+      "Lodge": "S",
+      "Quality": 5,
+      "Notes": "Simple hike along an easy to follow trail."
+    },
+    {
+      "Leg": 86,
+      "Vlog": 122123,
+      "To": "Nulungsumda Kharka",
+      "Length": 13.676447,
+      "Climb": 1550,
+      "Descent": 830,
+      "Start": 4247,
+      "End": 4967,
+      "Top": 5546,
+      "Bottom": 4247,
+      "Route": 2,
+      "Trail": 2,
+      "Lodge": "C",
+      "Quality": 4,
+      "Notes": "Very tricky to follow trail, which was steep with slippery crumbling slate fragments underfoot in places. We made a navigational blunder by following what looked like a horse track on the ground. This led in the wrong direction and we then chose a dangerous exposed traverse instead of backtracking (the route does not take this detour). Update from Kate (2021): \"The shelter at Sangda Phedi has collapsed as of 2021. The river was easily crossable without needing to get wet feet. We had no navigational issues in this section as the trail was well traveled and some of it was road.\""
+    },
+    {
+      "Leg": 87,
+      "To": "Chharka Bhot",
+      "Length": 21.968083,
+      "Climb": 667,
+      "Descent": 1333,
+      "Start": 4967,
+      "End": 4301,
+      "Top": 4973,
+      "Bottom": 4300,
+      "Route": 1,
+      "Trail": 1,
+      "Lodge": "G",
+      "Quality": 0,
+      "Notes": "We had a huge problem here. The trail on the east side of the Thansan Khola was blocked. We backtracked and camped overnight at Norbulung. In the morning we made a very bad decision. I believe the best way would have been to continue towards Chharka Bhot on the west bank after crossing the Thansan Khola. I would recommend doing this, and have left the route going this way to Chharka Bhot even though we didn't go this way. We made the decision to hike up the Yalku Khola, heading towards one of the passes near Chharka Bhot. The upper parts of the Yalku Khola were not passable, and the pass we were aiming for didn't look safe at all. We changed plans several times, and ended up hiking for two days over mountainous terrain with no trails on the map or the ground. The route we took skipped Chharka Bhot entirely and continued directly west across the mountains to the Chap Chu East waypoint, camping overnight at Sipalun Kharka. This part of the route was relatively easy with no particularly dangerous terrain. However, the problem is that you arrive at Chap Chu on the east side of the Bharbun Khola. There is no bridge and when we were there (August 16th) the river was far too swollen to cross. After taking advice from some Yak herders, we followed a rough trail south to Sinjik expecting the water to be lower, however this was incorrect and in fact the water was higher. Sinjik was deserted with a few derelict buildings, and as far as we could see the path finished there and we couldn't go any further south. We were out of options and about to give up when a local man appeared and led us along the most perilous trails I've ever hiked in my life. Slippery rocks with certain death falls inches away. I would highly recommend not trying to repeat this route! After a couple of hours we arrived in Thinmer where we stayed overnight in a basic homestay. Thinmer has a bridge over the Bharbun Khola, and the trail north to Chap Chu on the west side of the river was safe and well maintained. If you would like our detailed GPS tracks for this route, you can find them in our raw GPX logs (days 123-126), however be warned that the section from Sinjik to Thinmer was exceedingly dangerous and I would absolutely not repeat it myself. Update from Kate (2021): \"Where you marked the trail as blocked there is actually a road on the west side of the river now. It crosses back to the east after maybe a kilometer. The rest of the way is an easy road.\""
+    },
+    {
+      "Leg": 88,
+      "To": "Chap Chu",
+      "Length": 13.521568,
+      "Climb": 746,
+      "Descent": 712,
+      "Start": 4309,
+      "End": 4343,
+      "Top": 4414,
+      "Bottom": 4139,
+      "Route": 1,
+      "Trail": 1,
+      "Lodge": "C",
+      "Quality": 4,
+      "Notes": "Extreme care should be taken if hiking this route from Chharka Bhot to Chap Chu. We did not hike this way, and the route is just copied from the paper maps. There is no trail shown on digital maps, which usually indicates the trail on the ground is tenuous or non-existent. The guidebook mentions there are several crossings of the Bharbun Khola required with no bridge. We only saw that river south (downstream) of Chap Chu, but I would expect crossing it would have been impossible even further upstream when we were there (August 16th). The guidebook and paper maps mention an alternative trail that takes a more remote northerly route from Chharka Bhot to Dho Tarap via Mola La (5030m) and Jhyarkoi La (5360m). I suggest you talk to locals at Chharka Bhot and work out the best option considering the current conditions. It may be possible to arrange a local guide - I would highly recommend that. Again I must stress that I believe this leg would have been impossible when we were here (August 16th) due to the river being too swollen. If you find a reliable, safe route through this section, please contact me (dave@brophy.uk) because I would love to use your GPS tracks and trail notes here. Update from Kate (2012): \"Most of this section is also road now. The only trail section is the last ~5k to Chap Chu. We had no dangerous river crossings and no trouble following the trail (Sept 2, 2021). Charka Bhot had a couple guesthouses, but we only stopped for lunch.\""
+    },
+    {
+      "Leg": 89,
+      "Vlog": 127,
+      "To": "Dho Tarap",
+      "Length": 20.065042,
+      "Climb": 1205,
+      "Descent": 1463,
+      "Start": 4343,
+      "End": 4085,
+      "Top": 5378,
+      "Bottom": 4079,
+      "Route": 2,
+      "Trail": 2,
+      "Lodge": "G",
+      "Quality": 4,
+      "Notes": "The first half of this leg was extremely tricky, and required long sections of bushwhacking through dense shrubland. There were several crossings of a river, which was small enough that we managed to avoid getting our feet wet by hopping across rocks. As soon as we climbed above the treeline the terrain become easier to traverse and a trail on the ground became apparent. The ascent to the pass and the descent into Dho Tarap were much easier to navigate. There are several small rivers crossings with no bridges, but none were more than ankle deep (August 19th). Update from Kate (2021): \"Part of this is also road. We had no navigational issues.\""
+    },
+    {
+      "Leg": 90,
+      "Vlog": 129,
+      "To": "Danigar",
+      "Length": 19.19012,
+      "Climb": 1546,
+      "Descent": 1156,
+      "Start": 4093,
+      "End": 4483,
+      "Top": 5307,
+      "Bottom": 4093,
+      "Route": 4,
+      "Trail": 3,
+      "Lodge": "C",
+      "Quality": 4,
+      "Notes": "The trail out of Dho Tarap was a very easy hike along a well maintained trail. As we approached the pass the trail became less well defined but the terrain above the treeline was open and easy to traverse. Past the pass it got easier with a more well defined trail."
+    },
+    {
+      "Leg": 91,
+      "Vlog": 130,
+      "To": "Ringmo",
+      "Length": 17.390136,
+      "Climb": 1345,
+      "Descent": 2195,
+      "Start": 4483,
+      "End": 3633,
+      "Top": 5166,
+      "Bottom": 3579,
+      "Route": 5,
+      "Trail": 4,
+      "Lodge": "G",
+      "Quality": 3,
+      "Notes": "Simple hike along an easy to follow trail."
+    },
+    {
+      "Leg": 92,
+      "Vlog": 131,
+      "To": "Phoksundo Khola Camp",
+      "Length": 7.812608,
+      "Climb": 1007,
+      "Descent": 1024,
+      "Start": 3633,
+      "End": 3616,
+      "Top": 4090,
+      "Bottom": 3608,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "C",
+      "Quality": 5,
+      "Notes": "Simple hike along an easy to follow trail along the edge of the utterly spectacular Phoksundo Lake."
+    },
+    {
+      "Leg": 93,
+      "Vlog": 132,
+      "To": "Pass Camp",
+      "Length": 12.724104,
+      "Climb": 1387,
+      "Descent": 362,
+      "Start": 3618,
+      "End": 4643,
+      "Top": 4643,
+      "Bottom": 3616,
+      "Route": 4,
+      "Trail": 1,
+      "Lodge": "C",
+      "Quality": 2,
+      "Notes": "The first half of this leg was a very easy hike up a wide flat river valley along a well maintained trail. As soon as we turned right up the narrow gorge it completely changed. This section was extremely technical, scrambling up 900m of elevation over large rock obstacles. It involved dangerous leaps between rocks to cross the river numerous times. There was no trail marked on the ground, and we had to backtrack several times to find safer places to cross the river. Update from Kate (2021): \"The narrow gorge has a very nice trail. We had no scrambling and no dangerous leaps between rocks. There were bridges for most of the river crossings. We had to ford a couple, but it was only knee deep at most (August 28, 2021). There is a new looking shelter about 500m after Pass Camp. Locals were happy to share the space with us.\""
+    },
+    {
+      "Leg": 94,
+      "Vlog": 133,
+      "To": "Shey Gompa",
+      "Length": 10.30442,
+      "Climb": 729,
+      "Descent": 1100,
+      "Start": 4642,
+      "End": 4324,
+      "Top": 5347,
+      "Bottom": 4319,
+      "Route": 4,
+      "Trail": 3,
+      "Lodge": "S",
+      "Quality": 4,
+      "Notes": "Simple hike along an easy to follow trail."
+    },
+    {
+      "Leg": 95,
+      "Vlog": 134,
+      "To": "Bhijer",
+      "Length": 18.602451,
+      "Climb": 1371,
+      "Descent": 1835,
+      "Start": 4319,
+      "End": 3855,
+      "Top": 4864,
+      "Bottom": 3852,
+      "Route": 4,
+      "Trail": 3,
+      "Lodge": "H",
+      "Quality": 1,
+      "Notes": "Simple hike along an easy to follow trail."
+    },
+    {
+      "Leg": 96,
+      "Vlog": 136,
+      "To": "Pho",
+      "Length": 12.588972,
+      "Climb": 1740,
+      "Descent": 1453,
+      "Start": 3853,
+      "End": 4087,
+      "Top": 4799,
+      "Bottom": 3397,
+      "Route": 4,
+      "Trail": 2,
+      "Lodge": "H",
+      "Quality": 2,
+      "Notes": "The trail was well marked and easy to follow, but very steep and perilous in places. We only found one source of fresh water on this leg, so you may be advised to start the day with more if the weather is sunny."
+    },
+    {
+      "Leg": 97,
+      "Vlog": 137,
+      "To": "Pung Kharka",
+      "Length": 13.748949,
+      "Climb": 1744,
+      "Descent": 1311,
+      "Start": 4093,
+      "End": 4526,
+      "Top": 5538,
+      "Bottom": 4093,
+      "Route": 1,
+      "Trail": 1,
+      "Lodge": "C",
+      "Quality": 2,
+      "Notes": "I believe we made a navigational error when departing Pho. We headed approximately north towards the rightmost of two chortens that were visible in the distance from the village. After passing the chorten, the trail stopped and we spent the three hours bushwhacking across steep shrubland to the ridge. If I was to hike this leg again I'd try aiming for the leftmost chorten and hope that the trail continues all the way to the ridge. When we reached the ridge, we found a trail that seemed to come from the south from the general direction of Pho, so I believe this was an easier route. However the terrain was relatively open so the section of bushwhacking didn't post any significant dangers. I have left the route following our track. If you find a better route through this section, please contact me (dave@brophy.uk) because I would love to use your GPS track. Once we reached the ridge, we found a trail that was relatively easy to follow. Take note of the waypoint that marks the descent from the ridge because it may be easy to miss. Update from Kate (2021): \"The trail to the left is the correct trail. Easy to follow when you’re on it.\""
+    },
+    {
+      "Leg": 98,
+      "Vlog": 138,
+      "To": "Chyandi Khola",
+      "Length": 12.333123,
+      "Climb": 1041,
+      "Descent": 866,
+      "Start": 4526,
+      "End": 4701,
+      "Top": 5400,
+      "Bottom": 4526,
+      "Route": 2,
+      "Trail": 3,
+      "Lodge": "C",
+      "Quality": 5,
+      "Notes": "Simple hike along an easy to follow trail, with a tricky point on the ascent to the pass (see waypoints)."
+    },
+    {
+      "Leg": 99,
+      "Vlog": 139140,
+      "To": "Takla Khola",
+      "Length": 12.025572,
+      "Climb": 969,
+      "Descent": 2113,
+      "Start": 4699,
+      "End": 3747,
+      "Top": 4727,
+      "Bottom": 3712,
+      "Route": 1,
+      "Trail": 1,
+      "Lodge": "C",
+      "Quality": 4,
+      "Notes": "We made a string of bad decisions today that resulted in the most dangerous situation of the trek. We missed a trail and continued hiking down the Chyandi Khola directly next to the river. As we continued the banks became increasingly steep and we had to pass increasingly dangerous obstacles to continue following the river. As the number of perilous situations we encountered grew, the prospect of backtracking through them again seemed more and more problematic. In the end, it was impossible to continue, and we made the decision to climb out of the river gorge up a steep bank. This was utterly idiotic and could have easily cost us our lives. We had no idea what was above us, and the terrain was so steep that we were basically rock climbing with no safety equipment. When we reached the top of the ridge, we found a well trodden trail that led down to a bridge over the Kaitpuchonam Khola. Neither of us were in any mood for more adventures, so we camped as soon as we crossed the bridge. I have adjusted the route to follow where I'm guessing the trail comes from, but be aware that we completely missed it, so this is very approximate. We completed the rest of this leg to Takla Khola the next day, which was tricky to follow and very steep in places. Update from Kate (2021): \"Where you marked that you missed the trail that goes up the north bank is actually about where you should cross the river to the south bank. The trail goes in and out especially at the beginning, but just follow the river. There is a bridge that crosses the Chyandi Khola right by where the other bridge crosses the Kaitpuchonam Khola. We were going west to east and tried to find a trail on the north side of the river, but everything we tried cliffed out. We could see the second bridge and decided to go for it. Had no problems following the river on the south side.\""
+    },
+    {
+      "Leg": 100,
+      "Vlog": 141,
+      "To": "Thajuchaur",
+      "Length": 11.222714,
+      "Climb": 1415,
+      "Descent": 1119,
+      "Start": 3749,
+      "End": 4045,
+      "Top": 5129,
+      "Bottom": 3749,
+      "Route": 4,
+      "Trail": 3,
+      "Lodge": "C",
+      "Quality": 4,
+      "Notes": "The first part of the trail in the forest was occasionally tricky to follow. Above the treeline it got a lot easier, and the trail was relatively well trodden and easy to follow."
+    },
+    {
+      "Leg": 101,
+      "Vlog": 142,
+      "To": "Shilenchaura Kharka",
+      "Length": 9.005726,
+      "Climb": 153,
+      "Descent": 1287,
+      "Start": 4044,
+      "End": 2910,
+      "Top": 4044,
+      "Bottom": 2909,
+      "Route": 4,
+      "Trail": 2,
+      "Lodge": "G",
+      "Quality": 4,
+      "Notes": "The trail was reasonably easy to follow, but several sections were more tricky, and very overgrown with foliage. Care was needed to stay on the trail."
+    },
+    {
+      "Leg": 102,
+      "Vlog": 142143,
+      "To": "Mangri",
+      "Length": 27.879191,
+      "Climb": 1315,
+      "Descent": 2005,
+      "Start": 2910,
+      "End": 2232,
+      "Top": 2984,
+      "Bottom": 2098,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "H",
+      "Quality": 2,
+      "Notes": "Easy hike along a well maintained trail."
+    },
+    {
+      "Leg": 103,
+      "Vlog": 143,
+      "To": "Gamgadhi",
+      "Length": 18.624543,
+      "Climb": 1318,
+      "Descent": 1431,
+      "Start": 2232,
+      "End": 2125,
+      "Top": 2243,
+      "Bottom": 1772,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 4,
+      "Notes": "Easy hike along a dirt road."
+    },
+    {
+      "Leg": 104,
+      "To": "Rara Lake",
+      "Length": 8.299206,
+      "Climb": 1003,
+      "Descent": 125,
+      "Start": 2119,
+      "End": 2997,
+      "Top": 3066,
+      "Bottom": 2119,
+      "Route": 4,
+      "Trail": 4,
+      "Lodge": "G",
+      "Quality": 4,
+      "Notes": "We skipped the Rara Lake side trek, but I believe the trail is relatively major so should be a problem to follow."
+    },
+    {
+      "Leg": 105,
+      "Vlog": 145,
+      "To": "Dharke Khola",
+      "Length": 21.648066,
+      "Climb": 1713,
+      "Descent": 1911,
+      "Start": 2995,
+      "End": 2741,
+      "Top": 3066,
+      "Bottom": 1739,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 2,
+      "Notes": "Easy hike along a well maintained trail."
+    },
+    {
+      "Leg": 106,
+      "Vlog": 146,
+      "To": "Rimi",
+      "Length": 15.416164,
+      "Climb": 1511,
+      "Descent": 1584,
+      "Start": 2738,
+      "End": 2541,
+      "Top": 3582,
+      "Bottom": 2445,
+      "Route": 2,
+      "Trail": 1,
+      "Lodge": "G",
+      "Quality": 2,
+      "Notes": "The dirt road has many long switchbacks, with steep footpaths that shortcut between them. This can be tricky to follow at times. When we hiked there were several extremely muddy sections, and other trekkers have confirmed this is a common problem."
+    },
+    {
+      "Leg": 107,
+      "Vlog": 147,
+      "To": "Melcham",
+      "Length": 11.585372,
+      "Climb": 1377,
+      "Descent": 1025,
+      "Start": 2536,
+      "End": 2626,
+      "Top": 2626,
+      "Bottom": 1636,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 2,
+      "Notes": "Easy hike along a well maintained trail."
+    },
+    {
+      "Leg": 108,
+      "Vlog": 148,
+      "To": "Apsia Lek",
+      "Length": 9.226875,
+      "Climb": 1292,
+      "Descent": 669,
+      "Start": 2626,
+      "End": 3193,
+      "Top": 3193,
+      "Bottom": 2509,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "C",
+      "Quality": 4,
+      "Notes": "Easy hike along a well maintained trail."
+    },
+    {
+      "Leg": 109,
+      "Vlog": 148,
+      "To": "Punkha Khola",
+      "Length": 10.399693,
+      "Climb": 668,
+      "Descent": 1398,
+      "Start": 3192,
+      "End": 2462,
+      "Top": 3224,
+      "Bottom": 2445,
+      "Route": 5,
+      "Trail": 4,
+      "Lodge": "H",
+      "Quality": 1,
+      "Notes": "Take care to follow the route carefully when leaving Apsia Lek. The correct trail traverses the hillside without descending. We took two wrong trails and had to backtrack twice. Apart from this difficulty, the trail was well maintained and easy to follow."
+    },
+    {
+      "Leg": 110,
+      "Vlog": 149,
+      "To": "River Camp",
+      "Length": 13.342025,
+      "Climb": 1924,
+      "Descent": 1392,
+      "Start": 2457,
+      "End": 2989,
+      "Top": 4026,
+      "Bottom": 2445,
+      "Route": 4,
+      "Trail": 3,
+      "Lodge": "C",
+      "Quality": 1,
+      "Notes": "Simple hike along a reasonably easy to follow trail."
+    },
+    {
+      "Leg": 111,
+      "Vlog": 150,
+      "To": "Simikot",
+      "Length": 16.11304,
+      "Climb": 1650,
+      "Descent": 1653,
+      "Start": 2988,
+      "End": 2985,
+      "Top": 3023,
+      "Bottom": 2082,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 5,
+      "Notes": "Easy hike along a well maintained trail / dirt road."
+    },
+    {
+      "Leg": 112,
+      "Vlog": 152,
+      "To": "Salli",
+      "Length": 23.405133,
+      "Climb": 2298,
+      "Descent": 2362,
+      "Start": 2984,
+      "End": 2972,
+      "Top": 3264,
+      "Bottom": 2319,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 2,
+      "Notes": "Easy hike along a well maintained trail / dirt road."
+    },
+    {
+      "Leg": 113,
+      "Vlog": 153,
+      "To": "Thumkot",
+      "Length": 17.873677,
+      "Climb": 1271,
+      "Descent": 1172,
+      "Start": 2973,
+      "End": 2998,
+      "Top": 3132,
+      "Bottom": 2868,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "H",
+      "Quality": 2,
+      "Notes": "Easy hike along a well maintained trail / dirt road."
+    },
+    {
+      "Leg": 114,
+      "Vlog": 153,
+      "To": "Yari",
+      "Length": 11.96259,
+      "Climb": 1169,
+      "Descent": 392,
+      "Start": 3000,
+      "End": 3777,
+      "Top": 3777,
+      "Bottom": 3000,
+      "Route": 5,
+      "Trail": 5,
+      "Lodge": "G",
+      "Quality": 3,
+      "Notes": "Easy hike along a dirt road."
+    },
+    {
+      "Leg": 115,
+      "Vlog": 154,
+      "To": "Hilsa",
+      "Length": 20.72961,
+      "Climb": 1399,
+      "Descent": 1598,
+      "Start": 3778,
+      "End": 3632,
+      "Top": 4547,
+      "Bottom": 3632,
+      "Route": 5,
+      "Trail": 4,
+      "Lodge": "G",
+      "Quality": 4,
+      "Notes": "Easy hike along a well maintained trail / dirt road."
+    }
+  ],
+  "Waypoints": [
+    {
+      "Leg": 1,
+      "Name": "Phurumbu",
+      "Elevation": 1677,
+      "Notes": "Stayed overnight in a basic guesthouse in Phurumbu."
+    },
+    {
+      "Leg": 2,
+      "Name": "Chirwa",
+      "Elevation": 1228,
+      "Notes": "Stayed overnight in a basic guesthouse in Chirwa."
+    },
+    {
+      "Leg": 3,
+      "Name": "Sukethum",
+      "Elevation": 1573,
+      "Notes": "Stayed overnight in a nice guesthouse in Sukethum."
+    },
+    {
+      "Leg": 4,
+      "Name": "Amjilosa",
+      "Elevation": 2406,
+      "Notes": "Stayed overnight in a basic guesthouse in Amjilosa."
+    },
+    {
+      "Leg": 5,
+      "Name": "Gyabla",
+      "Elevation": 2709,
+      "Notes": "Stayed overnight in an excellent guesthouse in Gyabla."
+    },
+    {
+      "Leg": 6,
+      "Name": "Phale",
+      "Elevation": 3246,
+      "Notes": "The small village of Phale would make a great option for lunch or a homestay. I heard great things about the food."
+    },
+    {
+      "Leg": 6,
+      "Name": "Ghunsa",
+      "Elevation": 3420,
+      "Notes": "Stayed overnight in a nice guesthouse in Ghunsa, which is a large village with several guesthouses and a small shop."
+    },
+    {
+      "Leg": 7,
+      "Name": "Khangpachen",
+      "Elevation": 4083,
+      "Notes": "Stayed overnight in an excellent guest house in Khangpachen."
+    },
+    {
+      "Leg": 8,
+      "Name": "Lhonak",
+      "Elevation": 4754,
+      "Notes": "Lhonak is a tiny patch of flat land between two glaciers, and has nothing apart from a few very basic guesthouses. I imagine they would be closed out of season."
+    },
+    {
+      "Leg": 9,
+      "Name": "Landslide",
+      "Elevation": 5059,
+      "Notes": "This huge landslide had recently blocked the path (as of spring 2019). A lengthy detour was needed to find a safe place to cross. The route has been updated to show my detour."
+    },
+    {
+      "Leg": 9,
+      "Name": "Pangpema",
+      "Elevation": 5137,
+      "Notes": "There was a small shack at Pangpema (aka Kanchenjunga Base Camp) which I could have stayed at, but I chose to camp. I believe the staff come from Lhonak as and when they are needed, so best to ask them if you plan to stay overnight here without camping."
+    },
+    {
+      "Leg": 10,
+      "Name": "Landslide",
+      "Elevation": 5074,
+      "Notes": "See leg 9"
+    },
+    {
+      "Leg": 10,
+      "Name": "Lhonak",
+      "Elevation": 4756,
+      "Notes": "See leg 8"
+    },
+    {
+      "Leg": 11,
+      "Name": "Khangpachen",
+      "Elevation": 4089,
+      "Notes": "See leg 7"
+    },
+    {
+      "Leg": 12,
+      "Name": "Ghunsa",
+      "Elevation": 3420,
+      "Notes": "See leg 6"
+    },
+    {
+      "Leg": 13,
+      "Name": "Kharka",
+      "Elevation": 4165,
+      "Notes": "This camp site is brand new (as of spring 2019), with large flattened platforms and water nearby."
+    },
+    {
+      "Leg": 14,
+      "Name": "Nango La",
+      "Elevation": 4773,
+      "Notes": "The first high pass of the trek."
+    },
+    {
+      "Leg": 14,
+      "Name": "Yangjong Kharka",
+      "Elevation": 3738,
+      "Notes": "On the descent down from Nango La you will find a basic shelter at Yangjong Kharka. You should stay here overnight because after the shelter the trail deviates significantly from the description in the guidebook and paper maps. The guidebook and paper maps have you camping at the Yangma Khola bridge but I found no trail on the ground going this way, and I didn't see any more good camping options until Olangchun Gola. The shelter is almost brand new and very clean (as of spring 2019)."
+    },
+    {
+      "Leg": 15,
+      "Name": "Deviation",
+      "Elevation": 3610,
+      "Notes": "After the shelter, the trail deviates significantly from the guidebook and paper maps. The digital maps still show the old trail (as of spring 2019). I have updated the route to follow the new trail, which takes a more southerly path to a new bridge."
+    },
+    {
+      "Leg": 15,
+      "Name": "Bridge",
+      "Elevation": 3219,
+      "Notes": "This is the new bridge over the Yangma Khola (as of spring 2019). After the bridge, the trail follows the standard route shown on digital / paper maps."
+    },
+    {
+      "Leg": 15,
+      "Name": "North Bridge",
+      "Elevation": 3390,
+      "Notes": "This is a new bridge that Kate found (summer 2022)."
+    },
+    {
+      "Leg": 15,
+      "Name": "Olangchun Gola",
+      "Elevation": 3193,
+      "Notes": "Stayed overnight in a basic guesthouse in Olangchun Gola."
+    },
+    {
+      "Leg": 16,
+      "Name": "Pass Camp",
+      "Elevation": 4850,
+      "Notes": "This camp site was covered in deep snow when I stayed here."
+    },
+    {
+      "Leg": 17,
+      "Name": "Lumbha Sumbha",
+      "Elevation": 5147,
+      "Notes": "The Lumbha Sumbha pass is really two passes joined by a steep traverse. This is the final pass before the descent towards Thudam."
+    },
+    {
+      "Leg": 17,
+      "Name": "Thudam",
+      "Elevation": 3551,
+      "Notes": "Thudam is a very poor village. I stayed overnight in a very basic homestay."
+    },
+    {
+      "Leg": 18,
+      "Name": "Jijibuk",
+      "Elevation": 2829,
+      "Notes": "Jijibuk is a small clearing in the forest with a couple of very basic shacks. The yak herders living there fed me and let me sleep on the floor. The terrain in the area was so steep and the forest so dense that I didn't find any other camping options nearby."
+    },
+    {
+      "Leg": 19,
+      "Name": "Chyamtang",
+      "Elevation": 2231,
+      "Notes": "Chyamtang is a large village and is the recommended overnight stop in the guidebook and paper maps, however despite some searching I didn't find a guesthouse. I was directed to Lingham which is a couple of hours further and has an excellent guesthouse."
+    },
+    {
+      "Leg": 19,
+      "Name": "Lingham",
+      "Elevation": 2187,
+      "Notes": "Stayed overnight in an excellent guesthouse in Lingham."
+    },
+    {
+      "Leg": 20,
+      "Name": "Hongon",
+      "Elevation": 2326,
+      "Notes": "Stayed overnight in a basic guesthouse in Hongon."
+    },
+    {
+      "Leg": 21,
+      "Name": "Molun Pokhari",
+      "Elevation": 3962,
+      "Notes": "The campsite is on the opposite side of the Molun Pokhari lake to where the trail arrives. You will have to traverse around the north side of the lake. The campsite was covered in deep snow when I stayed there, but it looked flat and sheltered."
+    },
+    {
+      "Leg": 22,
+      "Name": "Cliffs",
+      "Elevation": 4106,
+      "Notes": "Ensure you traverse below these cliffs, not above. I made the mistake of traversing steep snow directly above the cliffs where a slip could have meant a nasty fall. There is no need to traverse above the cliffs."
+    },
+    {
+      "Leg": 22,
+      "Name": "Dhungge Khola",
+      "Elevation": 3624,
+      "Notes": "The bridge over the Dhungge Khola was just two planks of wood (spring 2019). The guidebook mentions it is often washed away."
+    },
+    {
+      "Leg": 22,
+      "Name": "Kholakharka Khola",
+      "Elevation": 3008,
+      "Notes": "The guidebook explains how to find a bridge over the Kholakharka Khola that is located somewhere around this waypoint. However despite hours of searching, I could not find the bridge. However Suvi (2019) found the bridge and I've estimated it's position with a waypoint."
+    },
+    {
+      "Leg": 22,
+      "Name": "Shelter",
+      "Elevation": 3194,
+      "Notes": "There is a large flat kharka at the source of the Kholakharka Khola, and a reasonably clean shelter where I stayed overnight. The river is easily crossed at this location, and there was a log bridge (spring 2019)."
+    },
+    {
+      "Leg": 22,
+      "Name": "Suvi Crossed",
+      "Elevation": 3018,
+      "Notes": "Suvi (2019) managed to cross the river here, but I wouldn't recommend this unless there is a bridge or it is safe."
+    },
+    {
+      "Leg": 22,
+      "Name": "Clearing Camp",
+      "Elevation": 2996,
+      "Notes": "Suvi (2019): \"There was a little grassy clearing and some locals had stayed there earlier because there was a fire place and some wooden structures. It was quite dirty with Yak poop though.\""
+    },
+    {
+      "Leg": 23,
+      "Name": "Cave Camp",
+      "Elevation": 3188,
+      "Notes": "Mike (2025): \"Cliff Camp is under a big cliff on the left side of the trail. Room for half a dozen tents tents along the cliff face.\""
+    },
+    {
+      "Leg": 23,
+      "Name": "Kalo Pokhari",
+      "Elevation": 4185,
+      "Notes": "Suvi (2019): \"We camped at a nice flat area near to the lake here.\""
+    },
+    {
+      "Leg": 24,
+      "Name": "Shelter",
+      "Elevation": 4087,
+      "Notes": "Mike (2025): \"The shelter was almost brand new with a fire pit inside.\""
+    },
+    {
+      "Leg": 24,
+      "Name": "Yangla Kharka",
+      "Elevation": 3755,
+      "Notes": "We stayed overnight in a basic guesthouse at Yangla Kharka. If you have time, continue to Langmale Kharka which is a nicer guesthouse."
+    },
+    {
+      "Leg": 25,
+      "Name": "Langmale Kharka",
+      "Elevation": 4452,
+      "Notes": "We stayed overnight at a nice guesthouse in Langmale Kharka."
+    },
+    {
+      "Leg": 25,
+      "Name": "Makalu Base Camp",
+      "Elevation": 4838,
+      "Notes": "We stayed overnight at a nice, but very expensive guesthouse at Makalu Base Camp."
+    },
+    {
+      "Leg": 26,
+      "Name": "Swiss Base Camp",
+      "Elevation": 5201,
+      "Notes": "We camped overnight at Swiss Base Camp. The campsite was challenging - we managed to find just about enough flat ground to pitch the tent in between boulders, but it was by no means perfect. The location is relatively sheltered, with fresh water nearby."
+    },
+    {
+      "Leg": 27,
+      "Name": "Sherpani Col Base Camp",
+      "Elevation": 5696,
+      "Notes": "We camped overnight at Sherpani Col Base Camp. This camp was significantly better than the previous night, with more space flatter ground. "
+    },
+    {
+      "Leg": 28,
+      "Name": "Sherpani Col",
+      "Elevation": 6157,
+      "Notes": "Crossing Sherpani Col involves a 100m climb, then a 100m down climb on the other side. We were able to clip into a fixed safety wire for the climb and descent, but a fall would still be extremely dangerous. At the bottom of the down-climb there was a small bergschrund before we reached the crevassed glacial plateau that separates Sherpani Col and West Col."
+    },
+    {
+      "Leg": 28,
+      "Name": "Advanced Base Camp",
+      "Elevation": 6111,
+      "Notes": "Although the itinerary proposes an overnight stay here at Advanced Base Camp I would highly recommend not camping here. Most groups continue over West Col and complete legs 28 and 29 in one long day, as we did. The plateau is at 6000m and extremely exposed, so camping here should only be attempted in an emergency."
+    },
+    {
+      "Leg": 29,
+      "Name": "West Col",
+      "Elevation": 6121,
+      "Notes": "Crossing West Col involves a short 20m climb, then a 200m rappel down over vertical rocks and blue ice. Make sure you bring a 200m rope for the rappel and do not rely on ropes left behind by previous teams, which are often unsafe."
+    },
+    {
+      "Leg": 29,
+      "Name": "Barnutse Base Camp",
+      "Elevation": 5437,
+      "Notes": "We stayed overnight at the spectacular Barnutse Base Camp. Plenty of flat ground and right next to a beautiful lake."
+    },
+    {
+      "Leg": 30,
+      "Name": "Rejoin",
+      "Elevation": 5468,
+      "Notes": "One of our party fell ill, so we took an extra rest day at a lower campsite, and an alternative route from Barnutse Base Camp to Amphu Labsta Base Camp. We rejoined the trail at this waypoint. The route before this is marked as a trail on digital maps, but we didn't actually hike it."
+    },
+    {
+      "Leg": 30,
+      "Name": "Amphu Labsta Base Camp",
+      "Elevation": 5514,
+      "Notes": "We found an adequate camp site about 150m earlier than the location of the base camp marked on digital maps. It was relatively sheltered, but not particularly flat. You might do better investigating the location marked on the digital maps."
+    },
+    {
+      "Leg": 31,
+      "Name": "Amphu Labsta",
+      "Elevation": 5827,
+      "Notes": "The access to Amphu Labsta is via a huge ice fall, with platforms of snow and ice to navigate. Our route differs significantly from that marked on digital maps, but I'm sure the safest route is different every year. Parts of the ascent we were able to clip into a safety wire, but there were parts where it was hidden under impenetrable ice. After the pass a 30m rappel is needed. The hike down into the basin below is extremely dangerous, with very loose rocks on a high gradient. "
+    },
+    {
+      "Leg": 31,
+      "Name": "Chhukung",
+      "Elevation": 4728,
+      "Notes": "We stayed at an excellent, but very expensive guesthouse in Chhukung."
+    },
+    {
+      "Leg": 32,
+      "Name": "Dingboche",
+      "Elevation": 4348,
+      "Notes": "We stayed at an excellent, but very expensive guesthouse in Dingboche."
+    },
+    {
+      "Leg": 33,
+      "Name": "Lobuche",
+      "Elevation": 4926,
+      "Notes": "We skipped this section, however the guesthouses in the Everest region are usually excellent but expensive."
+    },
+    {
+      "Leg": 34,
+      "Name": "Kala Patthar",
+      "Elevation": 5583,
+      "Notes": "We skipped this section, but Kala Patthar is a popular viewpoint of the Everest mountain range."
+    },
+    {
+      "Leg": 34,
+      "Name": "Gorak Shep",
+      "Elevation": 5157,
+      "Notes": "We skipped this section, however the guesthouses in the Everest region are usually excellent but expensive."
+    },
+    {
+      "Leg": 35,
+      "Name": "Everest Base Camp",
+      "Elevation": 5316,
+      "Notes": "We skipped this section, but Everest Base Camp is a popular tourist attraction."
+    },
+    {
+      "Leg": 35,
+      "Name": "Lobuche",
+      "Elevation": 4918,
+      "Notes": "We skipped this section, however the guesthouses in the Everest region are usually excellent but expensive."
+    },
+    {
+      "Leg": 36,
+      "Name": "Dzongla",
+      "Elevation": 4828,
+      "Notes": "We stayed at an excellent, but very expensive guesthouse in Dzongla."
+    },
+    {
+      "Leg": 37,
+      "Name": "Cho La",
+      "Elevation": 5371,
+      "Notes": "The approach to Cho La involved some scrambling and a short hike across a relatively flat section of glacier. It was free of crevasses and crampons were not needed when we crossed, however if conditions were bad this section could be problematic. The descent on the other side was steep, but a safety cable was fixed on the dangerous sections."
+    },
+    {
+      "Leg": 37,
+      "Name": "Dragnag",
+      "Elevation": 4680,
+      "Notes": "We completed legs 37 and 38 in one day, so we didn't stay overnight at Dragnag, but there are several guesthouses."
+    },
+    {
+      "Leg": 38,
+      "Name": "Gokyo",
+      "Elevation": 4757,
+      "Notes": "We stayed at an excellent, but very expensive guesthouse in Gokyo."
+    },
+    {
+      "Leg": 38,
+      "Name": "Gokyo Ri",
+      "Elevation": 5336,
+      "Notes": "The route includes the side-trek up to the Gokyo Ri view point and back but we didn't hike this part."
+    },
+    {
+      "Leg": 39,
+      "Name": "Renjo La",
+      "Elevation": 5385,
+      "Notes": "The approach to Renjo La was a relatively easy hike - not as technical as Cho La. The down climb on the other side was very steep but the trail was mostly well maintained stone steps which made descending easy. If snow obscures the path, this down climb could become very dangerous.  "
+    },
+    {
+      "Leg": 39,
+      "Name": "Lumde",
+      "Elevation": 4360,
+      "Notes": "We stayed at an excellent guesthouse in Lumde."
+    },
+    {
+      "Leg": 40,
+      "Name": "Thame",
+      "Elevation": 3790,
+      "Notes": "We stayed at an excellent guesthouse in Thame."
+    },
+    {
+      "Leg": 41,
+      "Name": "Thyangbo",
+      "Elevation": 4307,
+      "Notes": "We stayed at a basic guesthouse in Thyangbo. I believe this guesthouse is not open all the time, and it was the only option when we stayed here, so best to enquire in Thame if you plan to stay here."
+    },
+    {
+      "Leg": 42,
+      "Name": "Shelter",
+      "Elevation": 4868,
+      "Notes": "This is a nice, clean shelter. It seems to be relatively new as of spring 2019."
+    },
+    {
+      "Leg": 42,
+      "Name": "Tashi Labsta Camp",
+      "Elevation": 5216,
+      "Notes": "We stayed overnight at this very exposed, windy, rocky camp site. This was one of the worst camp sites of the trek. If conditions aren't perfect, I would recommend considering staying overnight at the shelter. If you do this, be sure to leave early the next day because it adds 1.2km and a 330m climb to the day."
+    },
+    {
+      "Leg": 43,
+      "Name": "Tashi Labsta",
+      "Elevation": 5771,
+      "Notes": "The approach to Tashi Labsta is up a huge steep pile of glacial moraine with constant danger of rocks slipping. We then climbed a very steep snow bank, which required ropes and crampons. The final section across the glacier and up to the pass was under cliffs with constant danger of rock fall from above. The first half of the descent down from the pass was extremely difficult, following the glacier with many crevasses to cross. The final part of the descent was even worse where we had to climb down a stream gully with water splashing all over us."
+    },
+    {
+      "Leg": 43,
+      "Name": "Glacier Camp",
+      "Elevation": 4878,
+      "Notes": "We stayed overnight at this very rocky area on the glacier. I suspect that a better site could be found given more time but the sun was going down so we took the first opportunity to pitch the tent."
+    },
+    {
+      "Leg": 44,
+      "Name": "Na",
+      "Elevation": 4179,
+      "Notes": "We stayed at an excellent guesthouse in Na."
+    },
+    {
+      "Leg": 45,
+      "Name": "Beding",
+      "Elevation": 3712,
+      "Notes": "We stayed at a basic guesthouse in Beding. We hiked this section out of season, so this guesthouse was the only option. If you hike this in peak season there are many other options."
+    },
+    {
+      "Leg": 46,
+      "Name": "Dokhang",
+      "Elevation": 2788,
+      "Notes": "We stayed at an excellent guesthouse in Dokhang. We had the best Dal Bhat of the entire trek here, and it was also the cheapest."
+    },
+    {
+      "Leg": 47,
+      "Name": "Simigaon",
+      "Elevation": 1983,
+      "Notes": "We actually hiked past Simigaon and spent the night at Gonggar which I think was a mistake. Simigaon seemed much nicer and higher elevation so it wasn't so hot and humid."
+    },
+    {
+      "Leg": 48,
+      "Name": "Gonggar",
+      "Elevation": 1275,
+      "Notes": "We skipped Simigaon the previous day and spent the night at a very basic guesthouse Gonggar, which was a miserable place. It's the base station for a major hydroelectric project, so full of lorries, and much lower so very hot and humid. I would recommend staying at Simigaon."
+    },
+    {
+      "Leg": 48,
+      "Name": "Orangdanda",
+      "Elevation": 1977,
+      "Notes": "We stayed at a basic homestay in Orangdanda. There were so many flies in the room that we erected the inner tent in the middle of the room and slept on the floor."
+    },
+    {
+      "Leg": 49,
+      "Name": "Laduk",
+      "Elevation": 2046,
+      "Notes": "We stayed in a nice homestay in Laduk. There is an Eco Himal guesthouse in Laduk but it is only open in peak season so closed when we visited."
+    },
+    {
+      "Leg": 50,
+      "Name": "Loting",
+      "Elevation": 1766,
+      "Notes": "We stayed at a nice guesthouse in Loting."
+    },
+    {
+      "Leg": 51,
+      "Name": "Bigu Gompa",
+      "Elevation": 2500,
+      "Notes": "We stayed at an excellent, but very expensive guesthouse in Bigu Gompa."
+    },
+    {
+      "Leg": 52,
+      "Name": "Road",
+      "Elevation": 2237,
+      "Notes": "As you leave Bigu Gompa, be sure to descend all the way down to the road marked by this waypoint. We took a footpath higher up the valley, which led up the river valley to the north. We continued for an hour before realising it was not possible to continue that way, and had to backtrack all the way to the road."
+    },
+    {
+      "Leg": 52,
+      "Name": "River",
+      "Elevation": 2488,
+      "Notes": "We bushwhacked up a river valley for an hour here. I suspect that this was not needed, and the road maybe joins up. However looking at satellite pictures of the area is inconclusive."
+    },
+    {
+      "Leg": 52,
+      "Name": "Tinsang Kewa",
+      "Elevation": 3283,
+      "Notes": "We stayed at an excellent campsite at Tinsang Kewa. There was also a small building - the people inside said we could stay there but it was rather dirty and the campsite was so good we chose to camp instead."
+    },
+    {
+      "Leg": 53,
+      "Name": "Warning",
+      "Elevation": 3042,
+      "Notes": "We made a huge navigational blunder here. The dirt road follows a switchback to the left, and we assumed it followed the route towards Sano Jyandan. We were wrong and it continued in completely the wrong direction down into the basin to the south. The correct route traverses along the ridge to Sano Jyandan before descending towards the north. As we descended we slowly realised that the road would not be rejoining the correct route, but by the time we fully understood this we had lost significant elevation, and the climb back up to the ridge seemed too far. We continued descending, hoping that the road would eventually lead us west and follow the hillside around towards the north. We realise the road we were on didn't go that way, but a road below us did head that way, so we bushwhacked down to the lower road. This ended up being a major detour and we ended up staying at a homestay at Madre. I have left the route going to Sano Jyandan, but it should be noted that we didn't hike it past this waypoint. The route in the GPX file after this point is just copied from the paper maps, so should not be relied upon."
+    },
+    {
+      "Leg": 53,
+      "Name": "Madre",
+      "Elevation": 2082,
+      "Notes": "We stayed at a basic guesthouse in Madre, which was the result of a major navigational blunder. I would recommend trying to stick to the route and find Sano Jyandan."
+    },
+    {
+      "Leg": 53,
+      "Name": "Sano Jyandan",
+      "Elevation": 2918,
+      "Notes": "This is the approximate location of Sano Jyandan. We made a major navigational blunder and stayed at Madre instead of here."
+    },
+    {
+      "Leg": 54,
+      "Name": "Trail",
+      "Elevation": 2936,
+      "Notes": "This is the start of the trail that Kate successfully found in 2021."
+    },
+    {
+      "Leg": 54,
+      "Name": "Rejoin",
+      "Elevation": 2102,
+      "Notes": "We rejoined the route at this waypoint. The route in the GPX file before this point is just copied from the paper maps, so should not be relied upon."
+    },
+    {
+      "Leg": 54,
+      "Name": "Last Resort",
+      "Elevation": 1214,
+      "Notes": "We stayed at the extremely luxurious, but very expensive eco tent resort of Last Resort, which has good road links to Kathmandu."
+    },
+    {
+      "Leg": 55,
+      "Name": "Chagam",
+      "Elevation": 2565,
+      "Notes": "We stayed at a nice homestay in Chagam."
+    },
+    {
+      "Leg": 56,
+      "Name": "Kyansin",
+      "Elevation": 2518,
+      "Notes": "We stayed at a basic homestay in Kyansin."
+    },
+    {
+      "Leg": 57,
+      "Name": "Tembathang",
+      "Elevation": 2218,
+      "Notes": "We hiked on further than Tembathang, but I'm sure a basic homestay could be found there."
+    },
+    {
+      "Leg": 58,
+      "Name": "Thepu",
+      "Elevation": 2223,
+      "Notes": "We hiked on past Tembathang yesterday, so stayed overnight at a basic homestay in Thepu."
+    },
+    {
+      "Leg": 58,
+      "Name": "Kharka",
+      "Elevation": 3966,
+      "Notes": "We actually split this leg over two days and camped at a nice flat kharka here. This made the second day very short so I would recommend pushing on to Panch Pokhari."
+    },
+    {
+      "Leg": 58,
+      "Name": "Panch Pokhari",
+      "Elevation": 4056,
+      "Notes": "Panch Pokhari has several guesthouses but it was completely deserted out of season. We found one building that was open so slept in that overnight."
+    },
+    {
+      "Leg": 59,
+      "Name": "Tin Pokhari",
+      "Elevation": 4176,
+      "Notes": "We stayed at a nice campsite in Tin Pokhari."
+    },
+    {
+      "Leg": 60,
+      "Name": "High South Camp",
+      "Elevation": 4963,
+      "Notes": "We stayed at a horrible rocky campsite on the glacier at High South Camp."
+    },
+    {
+      "Leg": 61,
+      "Name": "Tilman's Pass",
+      "Elevation": 5301,
+      "Notes": "The approach to Tilman's Pass is up a steep icy glacial slope. When we crossed, crampons and ice axe were sufficient for safety but if conditions were different, ropes may have been needed. The descent was less steep but again if conditions were worse it could be more tricky.  "
+    },
+    {
+      "Leg": 61,
+      "Name": "High North Camp",
+      "Elevation": 4547,
+      "Notes": "After a long scramble down the glacial boulder field we found a reasonably nice campsite here. I believe we hiked further down the glacier than is indicated on the paper maps, but I would recommend pushing on to here because it's a nice flat grassy area."
+    },
+    {
+      "Leg": 62,
+      "Name": "Cross",
+      "Elevation": 4414,
+      "Notes": "Although we didn't hike this way, my advice is to cross the Langshisha Khola approximately here, as high as possible."
+    },
+    {
+      "Leg": 62,
+      "Name": "Bridge",
+      "Elevation": 4119,
+      "Notes": "There was a bridge over the Langtang Khola here (spring 2019)."
+    },
+    {
+      "Leg": 62,
+      "Name": "Langshisha Khola",
+      "Elevation": 4243,
+      "Notes": "The Langshisha Khola is the drainage river of the Langshisha Glacier that yesterday's route follows. My advice is to cross this as soon as possible and descend on the east bank."
+    },
+    {
+      "Leg": 62,
+      "Name": "Langtang Khola",
+      "Elevation": 4088,
+      "Notes": "The Langtang Khola is a large river that flows down the Langtang valley. The only bridge we found over this river was to the east of the confluence with the Langshisha Khola."
+    },
+    {
+      "Leg": 62,
+      "Name": "Langshisha Kharka",
+      "Elevation": 4133,
+      "Notes": "We camped here overnight. I would not recommend going here."
+    },
+    {
+      "Leg": 62,
+      "Name": "Kyangjin Gompa",
+      "Elevation": 3865,
+      "Notes": "Stayed overnight in a nice guesthouse in Kyangjin Gompa."
+    },
+    {
+      "Leg": 63,
+      "Name": "Changdam",
+      "Elevation": 2469,
+      "Notes": "Stayed overnight in a basic guesthouse in Changdam."
+    },
+    {
+      "Leg": 64,
+      "Name": "Syabru Besi",
+      "Elevation": 1460,
+      "Notes": "Stayed overnight in an excellent guesthouse in Syabru Besi, which is a large town with many hotels and good road links to Kathmandu."
+    },
+    {
+      "Leg": 65,
+      "Name": "Gatlang",
+      "Elevation": 2287,
+      "Notes": "Stayed overnight in a nice guesthouse in Gatlang."
+    },
+    {
+      "Leg": 66,
+      "Name": "Somdang",
+      "Elevation": 3271,
+      "Notes": "Stayed overnight in a nice guesthouse in Somdang."
+    },
+    {
+      "Leg": 67,
+      "Name": "Footpath",
+      "Elevation": 3780,
+      "Notes": "This is approximately where the footpath diverges from the road. Take care to find the footpath."
+    },
+    {
+      "Leg": 67,
+      "Name": "Tipling",
+      "Elevation": 2049,
+      "Notes": "Stayed overnight in a basic homestay in Tipling."
+    },
+    {
+      "Leg": 68,
+      "Name": "Borang",
+      "Elevation": 1583,
+      "Notes": "Although not on the itinerary, we stayed overnight in a nice guesthouse in Borang."
+    },
+    {
+      "Leg": 68,
+      "Name": "Lapagaon",
+      "Elevation": 1852,
+      "Notes": "Although not on the itinerary, we stayed overnight in a very basic guesthouse in Lapagaon."
+    },
+    {
+      "Leg": 68,
+      "Name": "Khading",
+      "Elevation": 2050,
+      "Notes": "Jeff's updated route (2025) stops here. He stayed at XXX"
+    },
+    {
+      "Leg": 69,
+      "Name": "Kashigaun",
+      "Elevation": 1908,
+      "Notes": "We stayed overnight in a basic guesthouse in Kashigaun."
+    },
+    {
+      "Leg": 70,
+      "Name": "Machhakhola",
+      "Elevation": 840,
+      "Notes": "Our original itinerary descends directly to Machhakhola, but we were warned by the locals that the trail is dangerous. I've updated the route to end at Khorlabesi which takes a relatively good trail."
+    },
+    {
+      "Leg": 70,
+      "Name": "Khorlabesi",
+      "Elevation": 884,
+      "Notes": "We stayed overnight at a nice guesthouse in Khorlabesi."
+    },
+    {
+      "Leg": 71,
+      "Name": "Jagat",
+      "Elevation": 1329,
+      "Notes": "We stayed overnight at an excellent guesthouse in Jagat."
+    },
+    {
+      "Leg": 72,
+      "Name": "Deng",
+      "Elevation": 1881,
+      "Notes": "We stayed overnight at a nice guesthouse in Deng."
+    },
+    {
+      "Leg": 73,
+      "Name": "Namrung",
+      "Elevation": 2611,
+      "Notes": "We stayed overnight at an excellent guesthouse in Namgung."
+    },
+    {
+      "Leg": 74,
+      "Name": "Sama",
+      "Elevation": 3515,
+      "Notes": "We stayed overnight at a basic guesthouse in Sama. I believe better options would be available at peak season but when we stayed here (29th July) most were closed."
+    },
+    {
+      "Leg": 75,
+      "Name": "Samdo",
+      "Elevation": 3864,
+      "Notes": "We stayed overnight at a basic guesthouse in Samdo."
+    },
+    {
+      "Leg": 75,
+      "Name": "Dharmasala",
+      "Elevation": 4476,
+      "Notes": "The guesthouses at Dharmasala were all closed when we passed, so we stayed overnight at Samdo instead. Check with the staff in Sama if you plan to stay here."
+    },
+    {
+      "Leg": 76,
+      "Name": "Larkya La",
+      "Elevation": 5141,
+      "Notes": "One of the easiest high passes of the trek. The trail was easy to follow and not steep."
+    },
+    {
+      "Leg": 76,
+      "Name": "Bimtang",
+      "Elevation": 3704,
+      "Notes": "We stayed overnight at an excellent guesthouse in Bimtang."
+    },
+    {
+      "Leg": 77,
+      "Name": "Tilche",
+      "Elevation": 2261,
+      "Notes": "We stayed overnight at an excellent guesthouse in Tilche."
+    },
+    {
+      "Leg": 77,
+      "Name": "Dharapani",
+      "Elevation": 1884,
+      "Notes": "We didn't stay overnight in Dharapani but there are excellent guesthouses in most of the villages along the Annapurna trail."
+    },
+    {
+      "Leg": 78,
+      "Name": "Timang",
+      "Elevation": 2602,
+      "Notes": "We stayed overnight at an excellent guesthouse in Timang."
+    },
+    {
+      "Leg": 78,
+      "Name": "Chame",
+      "Elevation": 2671,
+      "Notes": "We didn't stay overnight in Chame but there are excellent guesthouses in most of the villages along the Annapurna trail."
+    },
+    {
+      "Leg": 79,
+      "Name": "Bratang",
+      "Elevation": 3801,
+      "Notes": "We stayed overnight at an excellent, but very expensive guesthouse in Bratang."
+    },
+    {
+      "Leg": 79,
+      "Name": "Upper Pisang",
+      "Elevation": 3300,
+      "Notes": "We stayed overnight at an excellent guesthouse in Upper Pisang."
+    },
+    {
+      "Leg": 80,
+      "Name": "Manang",
+      "Elevation": 3545,
+      "Notes": "We stayed overnight at a nice guesthouse in Manang."
+    },
+    {
+      "Leg": 81,
+      "Name": "Thorong Phedi",
+      "Elevation": 4545,
+      "Notes": "We didn't hike this section on our GHT trek, but have both hiked it before. There are nice guesthouses in Thorong Phedi. Check with the staff in Manang because these may be closed out of season."
+    },
+    {
+      "Leg": 82,
+      "Name": "Thorong La",
+      "Elevation": 5414,
+      "Notes": "We didn't hike this section on our GHT trek, but have both hiked it before. The trail over Thorong La is relatively well maintained and easy to follow."
+    },
+    {
+      "Leg": 82,
+      "Name": "Muktinath",
+      "Elevation": 3754,
+      "Notes": "We didn't hike this section on our GHT trek, but have both hiked it before. Muktinath is a large town with many excellent guesthouses."
+    },
+    {
+      "Leg": 83,
+      "Name": "Kagbeni",
+      "Elevation": 2849,
+      "Notes": "We stayed overnight at an excellent guesthouse in Kagbeni."
+    },
+    {
+      "Leg": 84,
+      "Name": "Santa",
+      "Elevation": 3784,
+      "Notes": "We stayed overnight at a basic homestay in Santa."
+    },
+    {
+      "Leg": 85,
+      "Name": "Ghalden Ghuldun",
+      "Elevation": 4247,
+      "Notes": "We stayed overnight at an excellent shelter in Ghalden Ghuldun."
+    },
+    {
+      "Leg": 86,
+      "Name": "Sangda Phedi",
+      "Elevation": 5147,
+      "Notes": "We stayed overnight at a nice shelter in Sangda Phedi just before the ascent to Jungben La. If you stay overnight here, take note of the options for crossing the river in the morning. When we crossed there was a partially broken bridge, and although the river was shallow, we had to get wet feet. An early morning start at over 5,000m meant that it was well below freezing, and getting wet was very uncomfortable."
+    },
+    {
+      "Leg": 86,
+      "Name": "Jungben La",
+      "Elevation": 5546,
+      "Notes": "From the river a very easy 400m ascent up a gravel slope leads to Jungben La."
+    },
+    {
+      "Leg": 86,
+      "Name": "Niwas La",
+      "Elevation": 5136,
+      "Notes": "When approaching from the east, Niwas La has no real ascent, and the only real indication you've reached it is a pile of rocks with prayer flags."
+    },
+    {
+      "Leg": 86,
+      "Name": "Nulungsumda Kharka",
+      "Elevation": 4965,
+      "Notes": "We didn't actually stay overnight here, but after the descent from Niwas La the terrain flattens out and there is a flat grassy area here. We saw some herders in tents here so you may also be able to get food."
+    },
+    {
+      "Leg": 87,
+      "Name": "Thansan Khola",
+      "Elevation": 4677,
+      "Notes": "The Thansan Khola flows north towards Chharka Bhot, and all digital / printed maps show a trail following the east bank."
+    },
+    {
+      "Leg": 87,
+      "Name": "Cross",
+      "Elevation": 4759,
+      "Notes": "The Thansan Khola is shallow at this point and we easily crossed (August 15th). My recommendation is to cross here to the west side and continue to Chharka Bhot this way. Note we didn't hike this way, so the route is only approximate and you may need to cross the river again before reaching Chharka Bhot."
+    },
+    {
+      "Leg": 87,
+      "Name": "Blocked",
+      "Elevation": 4734,
+      "Notes": "The trail on the east side of the Thansan Khola was blocked here. With less water in the river it may be possible to pass this point by wading in the water, but when we were here (August 15th) it was completely impossible. Note that we didn't hike past this point, but I have left the route going this way as per the digital / paper maps."
+    },
+    {
+      "Leg": 87,
+      "Name": "Norbulung",
+      "Elevation": 4757,
+      "Notes": "We stayed overnight at a nice flat grassy campsite."
+    },
+    {
+      "Leg": 87,
+      "Name": "Chharka Bhot",
+      "Elevation": 4300,
+      "Notes": "We didn't stay here, but I believe Chharka Bhot is a small village where you might be able to arrange a basic homestay."
+    },
+    {
+      "Leg": 87,
+      "Name": "Yalku Khola",
+      "Elevation": 4850,
+      "Notes": "We made a bad decision to follow the Yalku Khola upstream trying to find an alternative route to Chharka Bhot."
+    },
+    {
+      "Leg": 87,
+      "Name": "Sipalun Kharka",
+      "Elevation": 5219,
+      "Notes": "We stayed overnight at a relatively flat area here."
+    },
+    {
+      "Leg": 87,
+      "Name": "Chap Chu East",
+      "Elevation": 4256,
+      "Notes": "This is on the opposite side of the river to Chap Chu, and we found no safe way to cross."
+    },
+    {
+      "Leg": 87,
+      "Name": "Sinjik",
+      "Elevation": 4080,
+      "Notes": "We were expecting to be able to stay overnight in a homestay in Sinjik, but the buildings were all derelict and nobody was living there."
+    },
+    {
+      "Leg": 87,
+      "Name": "Thinmer",
+      "Elevation": 4052,
+      "Notes": "The path we followed south from Sinjik to Thinmer was extremely dangerous and I would not repeat it. Thinmer is a small village and we stayed overnight in basic homestay. There is a bridge over the Bharbun Khola at Thinmer and the trail leading north towards Chap Chu on the west side is safe and well maintained."
+    },
+    {
+      "Leg": 87,
+      "Name": "Bharbun Khola",
+      "Elevation": 4118,
+      "Notes": "The Bharbun Khola flows south from Chharka Bhot, past Sinjik and Thinmer. It was far too dangerous to cross when we were there (August 15th)."
+    },
+    {
+      "Leg": 88,
+      "Name": "Chap Chu",
+      "Elevation": 4342,
+      "Notes": "We stayed at an excellent flat grassy campsite at Chap Chu. There were some very friendly herders living in tents that sold us instant noodles. Note that we arrived at Chap Chu via a different route from the south (see notes for leg 87). "
+    },
+    {
+      "Leg": 89,
+      "Name": "Chan La",
+      "Elevation": 5378,
+      "Notes": "The ascent to Chan La was relatively easy. The slope leading to the pass was steep gravel but the trail was well worn and provided good footing. Again on the descent the trail proved easy to follow and stable underfoot."
+    },
+    {
+      "Leg": 89,
+      "Name": "Dho Tarap",
+      "Elevation": 4084,
+      "Notes": "Dho Tarap is a paradise of rolling green pastures and fields of crops. The town is very basic but there is one nice clean guesthouse where we stayed. "
+    },
+    {
+      "Leg": 90,
+      "Name": "Numa La",
+      "Elevation": 5306,
+      "Notes": "The ascent to Numa La was relatively easy. The trail on the ground was tenuous and not well marked, but the terrain was open and easy to traverse."
+    },
+    {
+      "Leg": 90,
+      "Name": "Danigar",
+      "Elevation": 4483,
+      "Notes": "We stayed overnight at a nice flat grassy campsite. There were some herders living in tents here."
+    },
+    {
+      "Leg": 91,
+      "Name": "Baga La",
+      "Elevation": 5166,
+      "Notes": "The crossing of Baga La receives plenty of foot traffic from regular trips by pack animals, so was well trodden and easy to follow."
+    },
+    {
+      "Leg": 91,
+      "Name": "Ringmo",
+      "Elevation": 3633,
+      "Notes": "Ringmo is a small town, and we were expecting luxury accommodation options. However I think out of season (August 22nd) many of the guesthouses were closed. We stayed at a nice guesthouse."
+    },
+    {
+      "Leg": 92,
+      "Name": "Phoksundo Khola Camp",
+      "Elevation": 3616,
+      "Notes": "We stayed overnight at an excellent flat grassy campsite at Phoksundo Khola Camp. There were some friendly herders living in tents here."
+    },
+    {
+      "Leg": 93,
+      "Name": "Gorge",
+      "Elevation": 3741,
+      "Notes": "This is the start of a very tricky steep gorge with scrambling and many tricky river crossings."
+    },
+    {
+      "Leg": 93,
+      "Name": "Pass Camp",
+      "Elevation": 4642,
+      "Notes": "This was the first flat camping option we found since starting the ascent of the gorge. It was flat but very rocky."
+    },
+    {
+      "Leg": 94,
+      "Name": "Nagdalo La",
+      "Elevation": 5340,
+      "Notes": "The ascent was relatively easy and not particularly steep. On the descent, after a short steep section at the top, the trail was well marked and easy to follow."
+    },
+    {
+      "Leg": 94,
+      "Name": "Shey Gompa",
+      "Elevation": 4324,
+      "Notes": "We stayed overnight in a nice shelter in the grounds of the temple at Shey Gompa."
+    },
+    {
+      "Leg": 95,
+      "Name": "Bhijer",
+      "Elevation": 3856,
+      "Notes": "There was one basic guesthouse in Bhijer, but the owner was out of town so we stayed overnight in a basic homestay."
+    },
+    {
+      "Leg": 96,
+      "Name": "Pho",
+      "Elevation": 4087,
+      "Notes": "We stayed at a basic homestay in Pho."
+    },
+    {
+      "Leg": 97,
+      "Name": "Ridge",
+      "Elevation": 4981,
+      "Notes": "Once you reach this ridge, the ascent to the pass is relatively well trodden and easy to follow."
+    },
+    {
+      "Leg": 97,
+      "Name": "Gyanzen La",
+      "Elevation": 5531,
+      "Notes": "The ascent to the pass, and the descent on the other side is relatively well trodden and easy to follow."
+    },
+    {
+      "Leg": 97,
+      "Name": "Descent",
+      "Elevation": 5411,
+      "Notes": "Watch out for this waypoint, which marks where the trail leaves the ridge and descends into the valley to the north. It may be easy to miss if conditions aren't perfect."
+    },
+    {
+      "Leg": 97,
+      "Name": "Pung Kharka",
+      "Elevation": 4526,
+      "Notes": "We stayed overnight at a flat gravely area at Pung Kharka."
+    },
+    {
+      "Leg": 98,
+      "Name": "Climb",
+      "Elevation": 4818,
+      "Notes": "I believe we made a navigational blunder here. This waypoint marks where we started climbing up the steep grassy hill towards the pass. After half an hour of bushwhacking we came across a well trodden trail coming from the south. I believe that this trail ascends from the valley starting further south from this waypoint, and you should try to find it. The gradient was very steep on this section and a fall would have been very bad."
+    },
+    {
+      "Leg": 98,
+      "Name": "Yala La",
+      "Elevation": 5399,
+      "Notes": "After we found the trail, the rest of the ascent and the descent on the other side of Yala La was relatively well trodden and easy to follow."
+    },
+    {
+      "Leg": 98,
+      "Name": "Chyandi Khola",
+      "Elevation": 4701,
+      "Notes": "We stayed overnight at the best campsite of the trek at Chyandi Khola. A large flat grassy area near the river with spectacular views of the mountains."
+    },
+    {
+      "Leg": 99,
+      "Name": "Trail",
+      "Elevation": 4277,
+      "Notes": "We missed the trail that leads higher up the north bank of the Chyandi Khola river, so I can only guess where it starts. Be thorough searching for it, because you don't want to get into the same mess that we did."
+    },
+    {
+      "Leg": 99,
+      "Name": "Warning",
+      "Elevation": 4462,
+      "Notes": "If you find yourself still following close to the river bank at this waypoint, I would highly recommend backtracking and trying to find the trail further up the hillside to the north."
+    },
+    {
+      "Leg": 99,
+      "Name": "Disaster",
+      "Elevation": 4270,
+      "Notes": "This is where we made the insane decision to climb out of the river gorge. Don't do this."
+    },
+    {
+      "Leg": 99,
+      "Name": "Kaitpuchonam Khola",
+      "Elevation": 4171,
+      "Notes": "We camped here in a cramped campsite directly after a small bridge over the Kaitpuchonam Khola river."
+    },
+    {
+      "Leg": 99,
+      "Name": "Takla Khola",
+      "Elevation": 3747,
+      "Notes": "We stayed overnight at an excellent flat campsite in the woods."
+    },
+    {
+      "Leg": 100,
+      "Name": "Chyargo La",
+      "Elevation": 5125,
+      "Notes": "The Chyargo La pass was relatively easy, with the trail on the ascent and descent being relatively easy to follow."
+    },
+    {
+      "Leg": 100,
+      "Name": "Thajuchaur",
+      "Elevation": 4045,
+      "Notes": "We stayed overnight at a nice flat grassy campsite at Thajuchaur."
+    },
+    {
+      "Leg": 101,
+      "Name": "Shilenchaura Kharka",
+      "Elevation": 2910,
+      "Notes": "We didn't actually stay overnight here, but we had lunch at an excellent guesthouse."
+    },
+    {
+      "Leg": 102,
+      "Name": "Bridge",
+      "Elevation": 2953,
+      "Notes": "You'll need to hike back to this bridge to cross the Mugu Khola."
+    },
+    {
+      "Leg": 102,
+      "Name": "Chhewathan",
+      "Elevation": 2241,
+      "Notes": "We stayed overnight at a basic guesthouse in Chhewathan, which is a small village on a dirt road with shops."
+    },
+    {
+      "Leg": 102,
+      "Name": "Mangri",
+      "Elevation": 2239,
+      "Notes": "We skipped Mangri and hiked directly to Gamgadhi. We planned to have lunch here, but there didn't seem to be any guesthouses. There were plenty of buildings, but they all looked very basic. If you plan to stay here overnight a basic homestay is probably the only option."
+    },
+    {
+      "Leg": 103,
+      "Name": "Gamgadhi",
+      "Elevation": 2126,
+      "Notes": "We stayed overnight at an excellent guesthouse in Gamgadhi, which is a major town with many shops and services."
+    },
+    {
+      "Leg": 104,
+      "Name": "Rara Lake",
+      "Elevation": 3000,
+      "Notes": "We skipped the Rara Lake side trek, but I believe there are several guesthouses here."
+    },
+    {
+      "Leg": 105,
+      "Name": "Bam",
+      "Elevation": 2649,
+      "Notes": "Some itineraries recommend an overnight stop here in Bam, but when we passed through it was a very basic looking village. We continued to Dharke Khola where we found a guesthouse, and I have adjusted the route to skip Bam."
+    },
+    {
+      "Leg": 105,
+      "Name": "Dharke Khola",
+      "Elevation": 2743,
+      "Notes": "We stayed overnight at a basic guesthouse in Dharke Khola."
+    },
+    {
+      "Leg": 106,
+      "Name": "Rimi",
+      "Elevation": 2540,
+      "Notes": "We stayed overnight at a basic guesthouse in Rimi."
+    },
+    {
+      "Leg": 107,
+      "Name": "Piplan",
+      "Elevation": 1729,
+      "Notes": "Some itineraries recommend an overnight stop here in Piplan, and it would be a reasonable option. We stopped for a rest here and it looked like a large village with a basic guesthouse and some shops."
+    },
+    {
+      "Leg": 107,
+      "Name": "Melcham",
+      "Elevation": 2626,
+      "Notes": "We stayed overnight at a basic guesthouse in Melcham."
+    },
+    {
+      "Leg": 108,
+      "Name": "Apsia Lek",
+      "Elevation": 3193,
+      "Notes": "We skipped Apsia Lek and hiked all the way to Punkha Khola in one day. Apsia Lek is a nice flat grassy campsite. There is one shack here where a basic homestay could perhaps be arranged."
+    },
+    {
+      "Leg": 109,
+      "Name": "Punkha Khola",
+      "Elevation": 2463,
+      "Notes": "We stayed at a very basic homestay in Punkha Khola (actually we erected the tent on the roof of their house)."
+    },
+    {
+      "Leg": 110,
+      "Name": "River Camp",
+      "Elevation": 2988,
+      "Notes": "We stayed overnight at a very cramped camp site at River Camp. The only flat ground had dense green leafy plants growing all over it, so we ended up pitching the tent on top of 20cm of foliage. It wasn't actually too bad after carefully clearing it of all the sharp sticks hiding underneath."
+    },
+    {
+      "Leg": 111,
+      "Name": "Simikot",
+      "Elevation": 2985,
+      "Notes": "Simikot is a large town with an airport, many shops and many excellent guesthouses."
+    },
+    {
+      "Leg": 112,
+      "Name": "Kermi",
+      "Elevation": 2897,
+      "Notes": "Some itineraries recommend an overnight stop here in Kermi, but it didn't look like there were any guesthouses here. We continued hiking to Sali, and I have adjusted the route to skip Kermi."
+    },
+    {
+      "Leg": 112,
+      "Name": "Salli",
+      "Elevation": 2973,
+      "Notes": "We stayed overnight at a basic guesthouse in Salli."
+    },
+    {
+      "Leg": 113,
+      "Name": "Gompa",
+      "Elevation": 3175,
+      "Notes": "We hiked up to the monastery and village at this waypoint, but could find no lodgings. Camping would be an option here but we left our tent in Simikot, so we backtracked all the way back down to the bridge. "
+    },
+    {
+      "Leg": 113,
+      "Name": "Thumkot",
+      "Elevation": 2998,
+      "Notes": "There were a couple of buildings just after the bridge that offered us a basic homestay, however we made the decision to skip Thumkot and hike all the way to Yari because we were in a rush to get back to Simikot for our return flight to Kathmandu."
+    },
+    {
+      "Leg": 114,
+      "Name": "Yari",
+      "Elevation": 3775,
+      "Notes": "We stayed at a nice guesthouse in Yari, which is a large village with several guesthouses and shops."
+    },
+    {
+      "Leg": 115,
+      "Name": "Hilsa",
+      "Elevation": 3634,
+      "Notes": "We didn't actually stay overnight in Hilsa but it is a small town on the Chinese border with many shops and guesthouses. There were two empty spaces on the last helicopter of the day back to Simikot so we flew back directly after arriving."
+    }
+  ],
+  "Passes": [
+    {
+      "Leg": 17,
+      "Pass": "Lumbha Sumbha",
+      "Height": 5160
+    },
+    {
+      "Leg": 28,
+      "Pass": "Sherpani Col",
+      "Height": 6190
+    },
+    {
+      "Leg": 29,
+      "Pass": "West Col",
+      "Height": 6140
+    },
+    {
+      "Leg": 31,
+      "Pass": "Amphu Labsta",
+      "Height": 5850
+    },
+    {
+      "Leg": 37,
+      "Pass": "Cho La",
+      "Height": 5420
+    },
+    {
+      "Leg": 39,
+      "Pass": "Renjo La",
+      "Height": 5360
+    },
+    {
+      "Leg": 43,
+      "Pass": "Tashi Labsta",
+      "Height": 5760
+    },
+    {
+      "Leg": 61,
+      "Pass": "Tilman's Pass",
+      "Height": 5310
+    },
+    {
+      "Leg": 76,
+      "Pass": "Larkya La",
+      "Height": 5140
+    },
+    {
+      "Leg": 0,
+      "Pass": "Tilicho East",
+      "Height": 5340
+    },
+    {
+      "Leg": 0,
+      "Pass": "Mesokanto La",
+      "Height": 5250
+    },
+    {
+      "Leg": 82,
+      "Pass": "Thorong La",
+      "Height": 5420
+    },
+    {
+      "Leg": 86,
+      "Pass": "Jungben La",
+      "Height": 5550
+    },
+    {
+      "Leg": 86,
+      "Pass": "Niwas La",
+      "Height": 5120
+    },
+    {
+      "Leg": 0,
+      "Pass": "Sime La",
+      "Height": 5310
+    },
+    {
+      "Leg": 89,
+      "Pass": "Chan La",
+      "Height": 5380
+    },
+    {
+      "Leg": 90,
+      "Pass": "Numa La",
+      "Height": 5310
+    },
+    {
+      "Leg": 91,
+      "Pass": "Baga La",
+      "Height": 5170
+    },
+    {
+      "Leg": 94,
+      "Pass": "Nagdalo La",
+      "Height": 5350
+    },
+    {
+      "Leg": 97,
+      "Pass": "Gyanzen La",
+      "Height": 5560
+    },
+    {
+      "Leg": 98,
+      "Pass": "Yala La",
+      "Height": 5410
+    },
+    {
+      "Leg": 100,
+      "Pass": "Chyargo La",
+      "Height": 5150
+    }
+  ]
+}
